@@ -13,8 +13,8 @@
 | **Representante Legal** | Ricardo Glavam |
 | **Cargo** | Presidente |
 | **Endereço** | Av. Baltazar de Oliveira Garcia, 430 — Bairro São Sebastião — Porto Alegre/RS — CEP 91130-000 |
-| **Valor Solicitado** | R$ 350.000,00 |
-| **Contrapartida Não Financeira** | A calcular (ver item m) |
+| **Valor Solicitado** | R$ 500.000,00 |
+| **Contrapartida Não Financeira** | R$ 96.000,00 |
 | **Vigência** | 24 meses |
 | **Área de Execução** | Porto Alegre/RS e região metropolitana |
 
@@ -127,9 +127,32 @@ O objeto da presente parceria é a **implantação de um Centro de Qualificaçã
 
 ## f) PLANO DE APLICAÇÃO DOS RECURSOS
 
-### Recursos Solicitados ao FRBL — R$ 350.000,00
+### Recursos Solicitados ao FRBL — R$ 500.000,00
 
-#### Obras e Infraestrutura
+#### 1. Equipe Permanente
+| Cargo | Regime | Salário | Encargos | Custo/mês | 24 meses |
+|---|---|---|---|---|---|
+| Coordenador de Projetos | CLT | R$ 3.000,00 | R$ 1.560,00 | R$ 4.560,00 | R$ 109.440,00 |
+| Instituto BZN — Coord. Administrativo | PJ | R$ 1.500,00 | — | R$ 1.500,00 | R$ 36.000,00 |
+| Assistente Social (12h/semana) | CLT | R$ 2.000,00 | R$ 1.040,00 | R$ 3.040,00 | R$ 72.960,00 |
+| Agente de Acolhimento e Orientação | MEI | R$ 1.800,00 | — | R$ 1.800,00 | R$ 43.200,00 |
+| Assistente Administrativo | MEI | R$ 1.200,00 | — | R$ 1.200,00 | R$ 28.800,00 |
+| **Subtotal Equipe** | | | | | **R$ 290.400,00** |
+
+#### 2. Instrutores
+| Curso | CH | Turmas | Horas total | R$/h | Total |
+|---|---|---|---|---|---|
+| Educação Financeira | 12h | 4 | 48h | R$ 80,00 | R$ 3.840,00 |
+| Empreendedorismo Resiliente | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
+| Gestão Financeira p/ Empreendedores | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
+| Social Media para Negócios | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
+| Manicure e Nail Design | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
+| Barbearia Profissional | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
+| Maquiagem Profissional | 96h | 4 | 384h | R$ 80,00 | R$ 30.720,00 |
+| Corte e Costura | 96h | 4 | 384h | R$ 80,00 | R$ 30.720,00 |
+| **Subtotal Instrutores** | | 32 turmas | 1.136h | | **R$ 90.880,00** |
+
+#### 3. Obras e Infraestrutura
 | Item | Valor |
 |---|---|
 | Abertura de parede dos fundos da garagem e instalação de portão de acesso | R$ 15.000,00 |
@@ -137,40 +160,26 @@ O objeto da presente parceria é a **implantação de um Centro de Qualificaçã
 | Instalação elétrica e iluminação da sala de costura | R$ 3.000,00 |
 | **Subtotal Obras** | **R$ 28.000,00** |
 
-#### Equipamentos e Mobiliário
-| Item | Valor |
-|---|---|
-| 4 máquinas de costura industriais | R$ 48.000,00 |
-| Estúdio de maquiagem: 5 poltronas profissionais, 5 espelhos, 5 luminárias de LED profissional | R$ 30.000,00 |
-| Kit barbearia: cadeiras, espelhos, equipamentos profissionais | R$ 20.000,00 |
-| Kit manicure: mesas, equipamentos, cabine de exaustão | R$ 10.000,00 |
-| Projetor, tela retrátil e quadro branco (auditório) | R$ 10.000,00 |
-| 12 cadeiras universitárias | R$ 7.200,00 |
-| 12 mesas e cadeiras (sala de oficinas) | R$ 9.600,00 |
-| 8 computadores/tablets para o curso de Social Media | R$ 12.000,00 |
-| **Subtotal Equipamentos** | **R$ 146.800,00** |
+#### 4. Equipamentos
+| Item | Qtd | Valor |
+|---|---|---|
+| Máquinas de costura industriais | 4 | R$ 48.000,00 |
+| Kit barbearia profissional (cadeira hidráulica, espelho, ferramentas) | 1 | R$ 12.000,00 |
+| Kit manicure (mesa, equipamentos, cabine de exaustão) | 1 | R$ 10.000,00 |
+| **Subtotal Equipamentos** | | **R$ 70.000,00** |
 
-#### Recursos Humanos
-| Item | Valor |
-|---|---|
-| Coordenador de Projetos — 24 meses | R$ 48.000,00 |
-| Instrutores — 6 cursos curtos × 4 turmas × 14h médias × R$ 80/h | R$ 26.880,00 |
-| Instrutores — 2 cursos longos (Maquiagem + Costura) × 4 turmas × 96h × R$ 80/h | R$ 61.440,00 |
-| **Subtotal Recursos Humanos** | **R$ 136.320,00** |
-
-#### Custos Operacionais
-| Item | Valor |
-|---|---|
-| Energia elétrica — fração proporcional ao projeto (24 meses) | R$ 12.000,00 |
-| Água — fração proporcional ao projeto (24 meses) | R$ 4.800,00 |
-| Material didático e consumíveis (apostilas, insumos de maquiagem, costura, manicure, barbearia) | R$ 10.000,00 |
-| Comunicação, marketing e divulgação (redes sociais, material gráfico, banners, mídia digital) | R$ 10.000,00 |
-| Contador / assessoria contábil para prestação de contas (24 meses) | R$ 2.080,00 |
-| **Subtotal Operacional** | **R$ 43.880,00** |
+#### 5. Custos Operacionais
+| Item | Mês | 24 meses |
+|---|---|---|
+| Energia elétrica — fração proporcional ao projeto | R$ 200,00 | R$ 4.800,00 |
+| Água — fração proporcional ao projeto | R$ 100,00 | R$ 2.400,00 |
+| Material didático e consumíveis | — | R$ 3.520,00 |
+| Marketing e comunicação | — | R$ 10.000,00 |
+| **Subtotal Operacional** | | **R$ 20.720,00** |
 
 | | |
 |---|---|
-| **TOTAL GERAL SOLICITADO** | **R$ 350.000,00** |
+| **TOTAL GERAL SOLICITADO** | **R$ 500.000,00** |
 
 ---
 
@@ -191,29 +200,19 @@ O objeto da presente parceria é a **implantação de um Centro de Qualificaçã
 
 | Parcela | Período | Valor | Destinação Principal |
 |---|---|---|---|
-| 1ª parcela | Mês 1 | R$ 140.000,00 | Obras, equipamentos, 1ª contratações |
-| 2ª parcela | Mês 7 | R$ 140.000,00 | Instrutores Ano 1, operacional |
-| 3ª parcela | Mês 13 | R$ 70.000,00 | Instrutores Ano 2, operacional |
-| **Total** | | **R$ 350.000,00** | |
+| 1ª parcela | Mês 1 | R$ 200.000,00 | Obras, equipamentos, contratações iniciais |
+| 2ª parcela | Mês 7 | R$ 200.000,00 | Instrutores Ano 1, equipe, operacional |
+| 3ª parcela | Mês 13 | R$ 100.000,00 | Instrutores Ano 2, equipe, operacional |
+| **Total** | | **R$ 500.000,00** | |
 
 ---
 
 ## h) DESCRIÇÃO DOS BENS E SERVIÇOS
 
-### Bens a serem adquiridos:
-- 4 máquinas de costura industrial (marca a definir conforme cotação — mínimo 3 fornecedores)
-- 5 poltronas de maquiagem profissionais
-- 5 espelhos de maquiagem com iluminação de LED
-- 5 luminárias profissionais de maquiagem
-- Kit completo de barbearia profissional
-- Kit completo de manicure
-- 1 projetor multimídia
-- 1 tela retrátil
-- 1 quadro branco
-- 12 cadeiras universitárias
-- 12 mesas para oficina
-- 12 cadeiras para sala de oficinas
-- 8 computadores/tablets
+### Bens a serem adquiridos (com recursos FRBL):
+- 4 máquinas de costura industrial (overlock e reta industrial — cotação mínima 3 fornecedores)
+- Kit completo de barbearia profissional (cadeira hidráulica, espelho com bancada, ferramentas)
+- Kit completo de manicure (mesa, equipamentos, cabine de exaustão)
 
 ### Serviços a serem realizados:
 - Reforma civil (abertura de parede, instalação de portão, divisória, elétrica)
