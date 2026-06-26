@@ -185,17 +185,16 @@ O objeto da presente parceria é a **implantação de um Centro de Qualificaçã
 
 ### Contrapartida Não Financeira — Instituto BZN
 
-Todos os itens abaixo são espaços e serviços **já pertencentes e em uso pelo Instituto BZN**, cedidos gratuitamente ao projeto. O mobiliário e os equipamentos presentes em cada espaço (cadeiras, mesas, projetor, tela, espelhos, poltronas, luminárias, etc.) são bens usados em plenas condições de uso, incorporados ao valor do espaço e **não serão individualmente valorados nem adquiridos com recursos FRBL**.
+O Instituto BZN cede gratuitamente ao projeto os seguintes espaços e serviços, todos já existentes e em pleno funcionamento, sem ônus ao FRBL:
 
-| Espaço / Serviço | Valor de uso/mês | Total 24 meses |
-|---|---|---|
-| Auditório (50 lugares, com equipamentos audiovisuais) | R$ 1.700,00 | R$ 40.800,00 |
-| Sala de aula 1 (mobiliada) | R$ 400,00 | R$ 9.600,00 |
-| Sala de aula 2 (mobiliada) | R$ 400,00 | R$ 9.600,00 |
-| Estúdio de maquiagem (equipado, já instalado) | R$ 800,00 | R$ 19.200,00 |
-| Internet (banda larga) | R$ 200,00 | R$ 4.800,00 |
-| Apoio administrativo institucional | R$ 500,00 | R$ 12.000,00 |
-| **TOTAL CONTRAPARTIDA** | **R$ 4.000,00** | **R$ 96.000,00** |
+- **Auditório** com capacidade para 50 pessoas, equipado com projetor, tela retrátil e quadro branco
+- **Sala de aula 1** mobiliada com cadeiras universitárias
+- **Sala de aula 2** mobiliada com mesas e cadeiras
+- **Estúdio de maquiagem** equipado com poltronas profissionais, espelhos e iluminação adequada
+- **Internet** (banda larga)
+- **Apoio administrativo institucional** durante toda a vigência do projeto
+
+*Valoração monetária: a ser preenchida conforme campo exigido no formulário eletrônico do MPRS.*
 
 ---
 
@@ -227,17 +226,15 @@ Todos os itens abaixo são espaços e serviços **já pertencentes e em uso pelo
 
 ## i) CONTRAPARTIDA NÃO FINANCEIRA
 
-O Instituto BZN oferta como contrapartida não financeira a disponibilização gratuita de sua estrutura física e operacional já existente, sem qualquer ônus ao FRBL. Os itens abaixo são bens próprios do Instituto, adquiridos com recursos próprios antes do início desta parceria:
+O Instituto BZN oferta como contrapartida não financeira a disponibilização gratuita de sua estrutura física e operacional já existente, sem qualquer ônus ao FRBL. Todos os bens foram adquiridos com recursos próprios do Instituto antes do início desta parceria:
 
 - **Auditório** com capacidade para 50 pessoas, projetor, tela retrátil e quadro branco
-- **2 salas de aula** equipadas com cadeiras universitárias, mesas e cadeiras
-- **Estúdio de maquiagem** completo (5 poltronas profissionais + espelhos com iluminação de LED + luminárias — já instalado)
+- **2 salas de aula** mobiliadas (cadeiras universitárias, mesas e cadeiras)
+- **Estúdio de maquiagem** completo (poltronas profissionais, espelhos e iluminação — já instalado)
 - **Internet** (banda larga)
-- **Apoio administrativo institucional**
+- **Apoio administrativo institucional** durante toda a vigência
 
-Valor total da contrapartida não financeira: **R$ 96.000,00** ao longo dos 24 meses de vigência (R$ 4.000,00/mês).
-
-Estes bens e espaços **não serão adquiridos com recursos do FRBL** e não integram o orçamento solicitado.
+Estes espaços e serviços **não serão adquiridos com recursos do FRBL** e não integram o orçamento solicitado de R$ 500.000,00.
 
 ---
 

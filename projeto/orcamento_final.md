@@ -91,17 +91,18 @@
 
 ---
 
-## CONTRAPARTIDA NÃO FINANCEIRA — R$ 96.000,00
+## CONTRAPARTIDA NÃO FINANCEIRA
 
-| Espaço / Serviço | Valor de uso/mês | Total 24 meses |
-|---|---|---|
-| Auditório (50 lugares, com equipamentos audiovisuais) | R$ 1.700,00 | R$ 40.800,00 |
-| Sala de aula 1 (mobiliada) | R$ 400,00 | R$ 9.600,00 |
-| Sala de aula 2 (mobiliada) | R$ 400,00 | R$ 9.600,00 |
-| Estúdio de maquiagem (equipado, já instalado) | R$ 800,00 | R$ 19.200,00 |
-| Internet (banda larga) | R$ 200,00 | R$ 4.800,00 |
-| Apoio administrativo institucional | R$ 500,00 | R$ 12.000,00 |
-| **TOTAL CONTRAPARTIDA** | **R$ 4.000,00** | **R$ 96.000,00** |
+O Instituto BZN cede gratuitamente ao projeto os seguintes espaços e serviços próprios, sem ônus ao FRBL:
+
+- Auditório (50 lugares, com projetor, tela retrátil e quadro branco)
+- Sala de aula 1 (mobiliada)
+- Sala de aula 2 (mobiliada)
+- Estúdio de maquiagem (equipado, já instalado)
+- Internet (banda larga)
+- Apoio administrativo institucional
+
+*Valoração monetária: a preencher conforme exigência do formulário eletrônico do MPRS.*
 
 ---
 
@@ -110,8 +111,8 @@
 | | Valor |
 |---|---|
 | Recursos FRBL solicitados | R$ 500.000,00 |
-| Contrapartida não financeira | R$ 96.000,00 |
-| **VALOR GLOBAL** | **R$ 596.000,00** |
+| Contrapartida não financeira | a valorar conforme formulário MPRS |
+| **VALOR SOLICITADO AO FRBL** | **R$ 500.000,00** |
 
 ---
 
