@@ -185,15 +185,14 @@ O objeto da presente parceria é a **implantação de um Centro de Qualificaçã
 
 ### Contrapartida Não Financeira — Instituto BZN
 
-Todos os itens abaixo são bens e infraestrutura **já pertencentes e em uso pelo Instituto BZN**, cedidos gratuitamente ao projeto. Não serão adquiridos com recursos FRBL.
+Todos os itens abaixo são espaços e serviços **já pertencentes e em uso pelo Instituto BZN**, cedidos gratuitamente ao projeto. O mobiliário e os equipamentos presentes em cada espaço (cadeiras, mesas, projetor, tela, espelhos, poltronas, luminárias, etc.) são bens usados em plenas condições de uso, incorporados ao valor do espaço e **não serão individualmente valorados nem adquiridos com recursos FRBL**.
 
-| Item | Valor estimado/mês | Total 24 meses |
+| Espaço / Serviço | Valor de uso/mês | Total 24 meses |
 |---|---|---|
-| Auditório (50 lugares) | R$ 1.500,00 | R$ 36.000,00 |
-| Sala de aula 1 (cadeiras universitárias) | R$ 400,00 | R$ 9.600,00 |
-| Sala de aula 2 (mesas e cadeiras) | R$ 400,00 | R$ 9.600,00 |
-| Estúdio de maquiagem (5 poltronas + espelhos + luzes — já instalado) | R$ 800,00 | R$ 19.200,00 |
-| Projetor + tela retrátil + quadro branco | R$ 200,00 | R$ 4.800,00 |
+| Auditório (50 lugares, com equipamentos audiovisuais) | R$ 1.700,00 | R$ 40.800,00 |
+| Sala de aula 1 (mobiliada) | R$ 400,00 | R$ 9.600,00 |
+| Sala de aula 2 (mobiliada) | R$ 400,00 | R$ 9.600,00 |
+| Estúdio de maquiagem (equipado, já instalado) | R$ 800,00 | R$ 19.200,00 |
 | Internet (banda larga) | R$ 200,00 | R$ 4.800,00 |
 | Apoio administrativo institucional | R$ 500,00 | R$ 12.000,00 |
 | **TOTAL CONTRAPARTIDA** | **R$ 4.000,00** | **R$ 96.000,00** |

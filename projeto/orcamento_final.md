@@ -93,13 +93,12 @@
 
 ## CONTRAPARTIDA NÃO FINANCEIRA — R$ 96.000,00
 
-| Item | Valor/mês | 24 meses |
+| Espaço / Serviço | Valor de uso/mês | Total 24 meses |
 |---|---|---|
-| Auditório 50 lugares | R$ 1.500,00 | R$ 36.000,00 |
-| Sala de aula 1 (cadeiras universitárias) | R$ 400,00 | R$ 9.600,00 |
-| Sala de aula 2 (mesas e cadeiras) | R$ 400,00 | R$ 9.600,00 |
-| Estúdio de maquiagem (5 poltronas + espelhos + luzes) | R$ 800,00 | R$ 19.200,00 |
-| Projetor + tela retrátil + quadro branco | R$ 200,00 | R$ 4.800,00 |
+| Auditório (50 lugares, com equipamentos audiovisuais) | R$ 1.700,00 | R$ 40.800,00 |
+| Sala de aula 1 (mobiliada) | R$ 400,00 | R$ 9.600,00 |
+| Sala de aula 2 (mobiliada) | R$ 400,00 | R$ 9.600,00 |
+| Estúdio de maquiagem (equipado, já instalado) | R$ 800,00 | R$ 19.200,00 |
 | Internet (banda larga) | R$ 200,00 | R$ 4.800,00 |
 | Apoio administrativo institucional | R$ 500,00 | R$ 12.000,00 |
 | **TOTAL CONTRAPARTIDA** | **R$ 4.000,00** | **R$ 96.000,00** |
