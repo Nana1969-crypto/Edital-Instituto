@@ -42,9 +42,9 @@ A parceria com o FRBL representa, portanto, uma ação direta de **reconstituiç
 
 O objeto da presente parceria é a **implantação de um Centro de Qualificação Profissional e Empreendedorismo** no Instituto BZN, compreendendo:
 
-1. **Adequação de infraestrutura física:** abertura de passagem na parede dos fundos da garagem com instalação de portão de acesso a estacionamento, construção de divisória interna para criação de sala de costura, e instalação de iluminação adequada — liberando espaço para ambiente de treinamento profissional.
+1. **Adequação de infraestrutura física** (a ser executada com recursos FRBL): abertura de passagem na parede dos fundos da garagem com instalação de portão de acesso, construção de divisória interna para criação de sala de costura, e instalação elétrica e iluminação.
 
-2. **Aquisição de equipamentos:** máquinas de costura industriais, equipamentos de barbearia e manicure, e materiais didáticos para os cursos.
+2. **Aquisição de equipamentos** (a ser realizada com recursos FRBL): máquinas de costura industriais (o Instituto não possui), kit de barbearia profissional e kit de manicure. O estúdio de maquiagem com poltronas, espelhos e iluminação, as salas de aula com mobiliário e o auditório são **estrutura própria do Instituto**, cedida como contrapartida não financeira.
 
 3. **Execução de 8 cursos de qualificação profissional** ao longo de 24 meses, beneficiando 256 pessoas em situação de vulnerabilidade socioeconômica, prioritariamente da região afetada pelas enchentes de 2024.
 
@@ -185,14 +185,18 @@ O objeto da presente parceria é a **implantação de um Centro de Qualificaçã
 
 ### Contrapartida Não Financeira — Instituto BZN
 
-| Item | Valor estimado mensal | Total 24 meses |
+Todos os itens abaixo são bens e infraestrutura **já pertencentes e em uso pelo Instituto BZN**, cedidos gratuitamente ao projeto. Não serão adquiridos com recursos FRBL.
+
+| Item | Valor estimado/mês | Total 24 meses |
 |---|---|---|
-| Uso do auditório (50 lugares, equipado) | R$ 1.500,00 | R$ 36.000,00 |
-| Uso das salas de aula (2 salas) | R$ 800,00 | R$ 19.200,00 |
-| Uso do estúdio de maquiagem (estrutura existente) | R$ 500,00 | R$ 12.000,00 |
+| Auditório (50 lugares) | R$ 1.500,00 | R$ 36.000,00 |
+| Sala de aula 1 (cadeiras universitárias) | R$ 400,00 | R$ 9.600,00 |
+| Sala de aula 2 (mesas e cadeiras) | R$ 400,00 | R$ 9.600,00 |
+| Estúdio de maquiagem (5 poltronas + espelhos + luzes — já instalado) | R$ 800,00 | R$ 19.200,00 |
+| Projetor + tela retrátil + quadro branco | R$ 200,00 | R$ 4.800,00 |
 | Internet (banda larga) | R$ 200,00 | R$ 4.800,00 |
-| Apoio administrativo da equipe do Instituto | R$ 1.000,00 | R$ 24.000,00 |
-| **TOTAL CONTRAPARTIDA** | | **R$ 96.000,00** |
+| Apoio administrativo institucional | R$ 500,00 | R$ 12.000,00 |
+| **TOTAL CONTRAPARTIDA** | **R$ 4.000,00** | **R$ 96.000,00** |
 
 ---
 
@@ -224,7 +228,17 @@ O objeto da presente parceria é a **implantação de um Centro de Qualificaçã
 
 ## i) CONTRAPARTIDA NÃO FINANCEIRA
 
-Conforme descrito no item f, o Instituto BZN oferta como contrapartida não financeira a disponibilização de toda a sua estrutura física para a execução do projeto, incluindo auditório, salas de aula, estúdio de maquiagem, internet e apoio administrativo institucional, valorados em **R$ 96.000,00** ao longo dos 24 meses de vigência.
+O Instituto BZN oferta como contrapartida não financeira a disponibilização gratuita de sua estrutura física e operacional já existente, sem qualquer ônus ao FRBL. Os itens abaixo são bens próprios do Instituto, adquiridos com recursos próprios antes do início desta parceria:
+
+- **Auditório** com capacidade para 50 pessoas, projetor, tela retrátil e quadro branco
+- **2 salas de aula** equipadas com cadeiras universitárias, mesas e cadeiras
+- **Estúdio de maquiagem** completo (5 poltronas profissionais + espelhos com iluminação de LED + luminárias — já instalado)
+- **Internet** (banda larga)
+- **Apoio administrativo institucional**
+
+Valor total da contrapartida não financeira: **R$ 96.000,00** ao longo dos 24 meses de vigência (R$ 4.000,00/mês).
+
+Estes bens e espaços **não serão adquiridos com recursos do FRBL** e não integram o orçamento solicitado.
 
 ---
 
