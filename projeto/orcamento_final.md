@@ -1,80 +1,94 @@
 # ORÇAMENTO FINAL — R$ 500.000,00
-## Projeto: Reconstruindo Vidas — Instituto BZN
-## Edital 02/2026/FRBL
+## Projeto: Reconstruindo Vidas — Ecossistema de Costura, Beleza e Empreendedorismo Digital
+## Instituto BZN — Edital 02/2026/FRBL
+
+> **Valores estimados.** Cada item será confirmado com **cotação mínima de 3 fornecedores** (item 1.20 do Edital) e comporá os "Orçamentos atualizados" exigidos no item 1.11.a. Ajustar após cotação.
 
 ---
 
-## 1. EQUIPE PERMANENTE — R$ 290.400,00
+## A. EQUIPAMENTOS — R$ 184.100,00 (36,8%)
 
-| Cargo | Regime | Salário | Encargos | Custo/mês | 24 meses |
-|---|---|---|---|---|---|
-| Coordenador de Projetos | CLT | R$ 3.000,00 | R$ 1.560,00 | R$ 4.560,00 | R$ 109.440,00 |
-| Instituto BZN — Coord. Administrativo | PJ | R$ 1.500,00 | — | R$ 1.500,00 | R$ 36.000,00 |
-| Assistente Social (12h/semana) | CLT | R$ 2.000,00 | R$ 1.040,00 | R$ 3.040,00 | R$ 72.960,00 |
-| Agente de Acolhimento e Orientação | MEI | R$ 1.800,00 | — | R$ 1.800,00 | R$ 43.200,00 |
-| Assistente Administrativo | MEI | R$ 1.200,00 | — | R$ 1.200,00 | R$ 28.800,00 |
-| **SUBTOTAL EQUIPE** | | | | | **R$ 290.400,00** |
-
-### Detalhamento encargos CLT:
-| Encargo | % | Coord. Projetos | Assist. Social |
+### A.1 Costura e Confecção — R$ 94.700,00
+| Item | Qtd | Unit. | Total |
 |---|---|---|---|
-| INSS Patronal | 20% | R$ 600,00 | R$ 400,00 |
-| FGTS | 8% | R$ 240,00 | R$ 160,00 |
-| Férias + 1/3 constitucional | 11,11% | R$ 333,00 | R$ 222,00 |
-| 13° Salário | 8,33% | R$ 250,00 | R$ 167,00 |
-| INSS s/ férias e 13° | ~3,3% | R$ 100,00 | R$ 67,00 |
-| FGTS s/ férias e 13° | ~1,3% | R$ 37,00 | R$ 24,00 |
-| **Total encargos/mês** | **~52%** | **R$ 1.560,00** | **R$ 1.040,00** |
+| Máquina reta industrial (direct drive) | 10 | R$ 2.400,00 | R$ 24.000,00 |
+| Overlock industrial (4 fios) | 4 | R$ 3.800,00 | R$ 15.200,00 |
+| Galoneira / colarete industrial | 2 | R$ 6.500,00 | R$ 13.000,00 |
+| Interlock industrial | 1 | R$ 7.500,00 | R$ 7.500,00 |
+| Máquina de acabamento (travete/caseadeira/botoneira) | 1 | R$ 8.000,00 | R$ 8.000,00 |
+| Máquina de corte (disco + faca vertical) | 2 | R$ 2.500,00 | R$ 5.000,00 |
+| Mesa de corte industrial | 2 | R$ 3.500,00 | R$ 7.000,00 |
+| Ferro a vapor industrial com caldeira | 2 | R$ 2.500,00 | R$ 5.000,00 |
+| Manequins, réguas, kit de modelagem, tesouras | lote | — | R$ 10.000,00 |
+
+### A.2 Empreendedorismo Digital / Social Media — R$ 45.000,00
+| Item | Qtd | Unit. | Total |
+|---|---|---|---|
+| Notebook (uso profissional) | 10 | R$ 3.000,00 | R$ 30.000,00 |
+| Kit de produção de conteúdo (ring light, tripé, câmera/smartphone, microfone, fundo) | 2 | R$ 3.500,00 | R$ 7.000,00 |
+| Projetor + tela retrátil | 1 | R$ 4.000,00 | R$ 4.000,00 |
+| Licenças de software (design/edição) — 24 meses | — | — | R$ 4.000,00 |
+
+### A.3 Beleza e Estética — R$ 44.400,00
+| Item | Qtd | Unit. | Total |
+|---|---|---|---|
+| Estação de manicure (mesa + cadeira + luminária) | 6 | R$ 1.500,00 | R$ 9.000,00 |
+| Maca/cadeira reclinável (cílios e sobrancelha) | 4 | R$ 2.000,00 | R$ 8.000,00 |
+| Cadeira mocho profissional | 6 | R$ 400,00 | R$ 2.400,00 |
+| Autoclave/esterilizador + cuba ultrassônica (biossegurança) | 1 | R$ 5.000,00 | R$ 5.000,00 |
+| Ampliação do estúdio de maquiagem (2 estações + iluminação LED) | lote | — | R$ 8.000,00 |
+| Kits profissionais iniciais (manicure, cílios, sobrancelha, maquiagem) | lote | — | R$ 12.000,00 |
 
 ---
 
-## 2. INSTRUTORES — R$ 90.880,00
-
-| Curso | CH | Turmas | Horas total | R$/h | Total |
-|---|---|---|---|---|---|
-| Educação Financeira | 12h | 4 | 48h | R$ 80,00 | R$ 3.840,00 |
-| Empreendedorismo Resiliente | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Gestão Financeira p/ Empreendedores | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Social Media para Negócios | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Manicure e Nail Design | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Barbearia Profissional | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Maquiagem Profissional | 96h | 4 | 384h | R$ 80,00 | R$ 30.720,00 |
-| Corte e Costura | 96h | 4 | 384h | R$ 80,00 | R$ 30.720,00 |
-| **SUBTOTAL INSTRUTORES** | | **32 turmas** | **1.136h** | | **R$ 90.880,00** |
-
----
-
-## 3. OBRAS E INFRAESTRUTURA — R$ 28.000,00
-
+## B. ADEQUAÇÃO DO ESPAÇO E MOBILIÁRIO — R$ 45.000,00 (9,0%)
 | Item | Valor |
 |---|---|
-| Abertura de parede dos fundos da garagem + portão de acesso | R$ 15.000,00 |
-| Divisória interna para sala de costura | R$ 10.000,00 |
-| Instalação elétrica e iluminação da sala de costura | R$ 3.000,00 |
-| **SUBTOTAL OBRAS** | **R$ 28.000,00** |
+| Abertura de vão em parede não estrutural + portão de acesso | R$ 15.000,00 |
+| Divisória interna (drywall) — sala de costura | R$ 10.000,00 |
+| Adequação elétrica p/ máquinas industriais + iluminação (NBR 5410) | R$ 8.000,00 |
+| Bancadas, cadeiras e mobiliário das estações de trabalho | R$ 12.000,00 |
+
+> **Anexo II obrigatório:** por envolver pequenas reformas que não afetam a estrutura, anexar a Declaração do Anexo II firmada por engenheiro/arquiteto (item 1.14), sob pena de rejeição preliminar. Anexar também comprovação de propriedade/ocupação regular do imóvel (item 1.15).
 
 ---
 
-## 4. EQUIPAMENTOS — R$ 70.000,00
-
-| Item | Qtd | Valor |
-|---|---|---|
-| Máquinas de costura industriais | 4 | R$ 48.000,00 |
-| Kit barbearia profissional (cadeira hidráulica, espelho, ferramentas) | 1 | R$ 12.000,00 |
-| Kit manicure (mesa, equipamentos, cabine de exaustão) | 1 | R$ 10.000,00 |
-| **SUBTOTAL EQUIPAMENTOS** | | **R$ 70.000,00** |
+## C. INSUMOS PEDAGÓGICOS E PRODUÇÃO-ESCOLA — R$ 60.000,00 (12,0%)
+| Item | Valor |
+|---|---|
+| Tecidos, linhas e aviamentos (produção-escola de costura) — 24 meses | R$ 34.000,00 |
+| Insumos de beleza (esmaltes, extensões de cílios, produtos de sobrancelha, descartáveis) | R$ 16.000,00 |
+| Material didático e apostilas (todos os eixos) | R$ 10.000,00 |
 
 ---
 
-## 5. CUSTOS OPERACIONAIS — R$ 20.720,00
+## D. INSTRUTORES E FORMAÇÃO — R$ 152.320,00 (30,5%)
+| Curso / Módulo | CH | Turmas | Horas | R$/h | Total |
+|---|---|---|---|---|---|
+| Corte e Costura + Modelagem (produção-escola) | 120h | 6 | 720h | R$ 85,00 | R$ 61.200,00 |
+| Beleza (maquiagem, manicure, cílios, sobrancelha) | 60h (méd.) | 8 | 480h | R$ 85,00 | R$ 40.800,00 |
+| Social Media para Negócios | 40h | 6 | 240h | R$ 85,00 | R$ 20.400,00 |
+| Empreendedorismo Resiliente | 16h | 8 | 128h | R$ 85,00 | R$ 10.880,00 |
+| Gestão Financeira para Empreendedores | 16h | 8 | 128h | R$ 85,00 | R$ 10.880,00 |
+| Educação Financeira | 12h | 8 | 96h | R$ 85,00 | R$ 8.160,00 |
+| **Subtotal** | | **44 turmas** | **1.792h** | | **R$ 152.320,00** |
 
-| Item | Mês | 24 meses |
-|---|---|---|
-| Energia elétrica (fração proporcional ao projeto) | R$ 200,00 | R$ 4.800,00 |
-| Água (fração proporcional ao projeto) | R$ 100,00 | R$ 2.400,00 |
-| Material didático e consumíveis | — | R$ 3.520,00 |
-| Marketing e comunicação | — | R$ 10.000,00 |
-| **SUBTOTAL OPERACIONAL** | | **R$ 20.720,00** |
+---
+
+## E. COORDENAÇÃO E INCUBAÇÃO — R$ 45.000,00 (9,0%)
+| Item | Valor |
+|---|---|
+| Coordenação do projeto (execução, 24 meses) | R$ 30.000,00 |
+| Incubação: mentoria, formalização de MEI, plano de negócio, vitrine digital | R$ 15.000,00 |
+
+---
+
+## F. DIVULGAÇÃO, CERTIFICAÇÃO E MONITORAMENTO — R$ 13.580,00 (2,7%)
+| Item | Valor |
+|---|---|
+| Divulgação e mobilização na comunidade | R$ 6.000,00 |
+| Certificação e bancas de avaliação | R$ 4.000,00 |
+| Monitoramento, avaliação de impacto e relatórios | R$ 3.580,00 |
 
 ---
 
@@ -82,51 +96,32 @@
 
 | Categoria | Valor | % |
 |---|---|---|
-| Equipe permanente | R$ 290.400,00 | 58,1% |
-| Instrutores | R$ 90.880,00 | 18,2% |
-| Obras | R$ 28.000,00 | 5,6% |
-| Equipamentos | R$ 70.000,00 | 14,0% |
-| Operacional | R$ 20.720,00 | 4,1% |
+| A. Equipamentos | R$ 184.100,00 | 36,8% |
+| B. Adequação do espaço e mobiliário | R$ 45.000,00 | 9,0% |
+| C. Insumos e produção-escola | R$ 60.000,00 | 12,0% |
+| D. Instrutores e formação | R$ 152.320,00 | 30,5% |
+| E. Coordenação e incubação | R$ 45.000,00 | 9,0% |
+| F. Divulgação, certificação e monitoramento | R$ 13.580,00 | 2,7% |
 | **TOTAL SOLICITADO AO FRBL** | **R$ 500.000,00** | **100%** |
 
----
+**Perfil de investimento (A+B+C):** R$ 289.100,00 = **57,8%** → projeto caracterizado como aparelhamento finalístico (item 1.4.c), afastando a vedação a custeio (item 1.5.a).
 
-## CONTRAPARTIDA NÃO FINANCEIRA
-
-O Instituto BZN cede gratuitamente ao projeto os seguintes espaços e serviços próprios, sem ônus ao FRBL:
-
-- Auditório (50 lugares, com projetor, tela retrátil e quadro branco)
-- Sala de aula 1 (mobiliada)
-- Sala de aula 2 (mobiliada)
-- Estúdio de maquiagem (equipado, já instalado)
-- Internet (banda larga)
-- Apoio administrativo institucional
-
-*Valoração monetária: a preencher conforme exigência do formulário eletrônico do MPRS.*
-
----
-
-## VALOR GLOBAL DO PROJETO
-
-| | Valor |
-|---|---|
-| Recursos FRBL solicitados | R$ 500.000,00 |
-| Contrapartida não financeira | a valorar conforme formulário MPRS |
-| **VALOR SOLICITADO AO FRBL** | **R$ 500.000,00** |
+**Custo por beneficiário:** R$ 500.000,00 ÷ ~300 pessoas ≈ **R$ 1.667,00** (muito abaixo do mercado privado, R$ 3.000–8.000/aluno nos mesmos cursos).
 
 ---
 
 ## CRONOGRAMA FINANCEIRO DE DESEMBOLSO
-
 | Parcela | Mês | Valor | Destinação principal |
 |---|---|---|---|
-| 1ª parcela | Mês 1 | R$ 200.000,00 | Obras, equipamentos, contratações |
-| 2ª parcela | Mês 7 | R$ 200.000,00 | Instrutores Ano 1, operacional |
-| 3ª parcela | Mês 13 | R$ 100.000,00 | Instrutores Ano 2, operacional |
+| 1ª | Mês 1 | R$ 230.000,00 | Adequação, equipamentos, contratações |
+| 2ª | Mês 7 | R$ 170.000,00 | Instrutores e insumos — Ano 1; incubação |
+| 3ª | Mês 13 | R$ 100.000,00 | Instrutores e insumos — Ano 2; monitoramento |
 | **Total** | | **R$ 500.000,00** | |
 
 ---
 
-*Porto Alegre, junho de 2026.*
-*Instituto Brasa Zona Norte — Instituto BZN*
-*CNPJ: 30.586.482/0001-74*
+## ⚠️ PONTO DE ATENÇÃO — LIMITE DE CUSTEIO/PESSOAL
+As categorias D (instrutores) e E (coordenação) somam R$ 197.320,00 (39,5%). Embora sejam **custos de execução do projeto** (e não manutenção de serviço preexistente), é indispensável **verificar na Resolução 01/2024/FRBL e na IN CAGE 05/2016** se há teto percentual para pessoal/custeio. Havendo teto inferior, remanejar para as categorias A–C (aumentando máquinas/estações), que são as mais seguras e alinhadas.
+
+---
+*Porto Alegre, 2026. — Instituto Brasa Zona Norte / Instituto BZN — CNPJ 30.586.482/0001-74*

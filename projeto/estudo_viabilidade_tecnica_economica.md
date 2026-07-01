@@ -1,154 +1,84 @@
 # ESTUDO DE VIABILIDADE TÉCNICA E ECONÔMICA
 ## Edital 02/2026/FRBL — Fundo para Reconstituição de Bens Lesados
 
-**Projeto:** Reconstruindo Vidas: Qualificação Profissional e Empreendedorismo para Comunidades Afetadas pelas Enchentes de 2024
+**Projeto:** Reconstruindo Vidas — Ecossistema de Costura, Beleza e Empreendedorismo Digital para Vítimas da Enchente de 2024
 **Organização:** Instituto Brasa Zona Norte — Instituto BZN
 **CNPJ:** 30.586.482/0001-74
-**Data:** Junho de 2026
 
 ---
 
 ## b.1) DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
 
 ### Contexto e problema a ser resolvido
+As enchentes de maio de 2024 no RS causaram a maior catástrofe climática da história do Estado, com impacto devastador sobre a **economia popular** de comunidades inteiras. O Bairro Sarandi, vizinho da sede do Instituto BZN, figurou entre os mais atingidos, com destruição de residências, comércios, equipamentos de trabalho e renda de milhares de famílias. O dano não foi só material: destruiu a **capacidade produtiva** de uma população já vulnerável, aprofundando a exclusão socioeconômica.
 
-As enchentes de maio de 2024 no Rio Grande do Sul causaram a maior catástrofe climática da história do Estado, com impacto devastador sobre a economia popular de comunidades inteiras. O Bairro Sarandi, em Porto Alegre, figurou entre os mais gravemente afetados, com destruição de residências, comércios, equipamentos de trabalho e renda de milhares de famílias.
+O Instituto BZN, instalado junto ao Bairro Sarandi desde 2018, identificou problemas estruturais que este projeto enfrenta:
 
-O dano não foi apenas material. A tragédia destruiu a capacidade produtiva de uma população já vulnerável, aprofundando a exclusão socioeconômica e retirando dessas pessoas as condições mínimas de inserção no mercado de trabalho. Dois anos após as enchentes, parcela significativa da população afetada ainda não recuperou sua fonte de renda.
+**Problema 1 — Escassez regional de mão de obra em costura:** o RS tem déficit documentado de profissionais qualificados em confecção, a ponto de as confecções gaúchas enviarem peças para fechamento em **Santa Catarina**. Formar costureiras na região gera renda individual **e** preenche lacuna sistêmica do mercado gaúcho.
 
-O Instituto BZN, instalado ao lado do Bairro Sarandi desde 2018, atua diretamente com essa população e identificou três problemas estruturais que o presente projeto se propõe a enfrentar:
+**Problema 2 — Ausência de qualificação e de renda pós-enchente:** parcela significativa da população afetada não recuperou sua fonte de renda. Sem certificação profissional, o acesso ao mercado formal é inviável.
 
-**Problema 1 — Ausência de qualificação profissional:**
-A população da região afetada tem baixa escolaridade e escassa qualificação formal. Sem certificação profissional, o acesso ao mercado de trabalho formal é praticamente inviável. A ausência de qualificação é a principal barreira entre essas pessoas e a geração de renda.
+**Problema 3 — Falta de infraestrutura local de qualificação:** não há, no entorno imediato, espaço estruturado e acessível para cursos profissionalizantes em moda, beleza e empreendedorismo digital.
 
-**Problema 2 — Falta de infraestrutura local para qualificação:**
-Não existe, no entorno imediato do Bairro Sarandi, um espaço estruturado e acessível para a oferta de cursos profissionalizantes nas áreas de beleza, moda e empreendedorismo. As alternativas disponíveis exigem deslocamento, custo e disponibilidade de horário incompatíveis com a realidade dessas famílias.
-
-**Problema 3 — Escassez regional de mão de obra qualificada em costura:**
-O Rio Grande do Sul enfrenta déficit documentado de profissionais qualificados no setor de confecção e costura. Empresas gaúchas têm recorrido à contratação de mão de obra de Santa Catarina para suprir a demanda, representando perda econômica para o Estado. A qualificação de costureiras na região não apenas gera renda individual, mas preenche uma lacuna sistêmica do mercado gaúcho.
-
-### Solução proposta
-
-A contratação de instrutores especializados, a aquisição de equipamentos profissionais e a adequação do espaço físico do Instituto BZN são as condições necessárias e suficientes para a implantação do Centro de Qualificação Profissional, capaz de atender 256 pessoas ao longo de 24 meses com cursos certificados nas áreas de maior demanda do mercado local.
+### Solução proposta — um ecossistema, não cursos isolados
+A aquisição de **equipamentos profissionais** (máquinas de costura, notebooks, equipamentos de beleza), a **adequação do espaço** e a **contratação de instrutores** implantam um ecossistema que conduz a pessoa da qualificação à renda, por emprego ou negócio próprio. O diferencial é a **produção-escola**: as beneficiárias produzem para venda desde a formação, gerando renda e portfólio. Os eixos se integram: a costura e a beleza produzem/prestam serviço; o eixo de social media (10 notebooks) ensina a divulgar e vender; o núcleo de empreendedorismo ensina a formalizar (MEI) e gerir.
 
 ---
 
 ## b.2) REQUISITOS DA CONTRATAÇÃO
 
-### Requisitos técnicos
+**Instrutores:** formação técnica/superior na área ou experiência profissional mínima de 3 anos; habilidade docente com adultos em vulnerabilidade; contratação com nota fiscal (RPA/MEI).
 
-**Instrutores:**
-- Formação técnica ou superior na área de atuação, ou comprovação de experiência profissional mínima de 3 anos na área do curso ministrado
-- Habilidade para docência e comunicação com adultos em situação de vulnerabilidade social
-- Disponibilidade para cumprir o cronograma de turmas estabelecido
-- Prestação de serviços mediante contrato com emissão de nota fiscal (RPA ou MEI)
+**Equipamentos de costura:** máquinas industriais de uso profissional (reta, overlock, galoneira, interlock, acabamento, corte); garantia mínima de 12 meses; assistência técnica em Porto Alegre/RS.
 
-**Equipamentos de costura:**
-- Máquinas de costura industriais de uso profissional (overlock e reta industrial)
-- Garantia mínima de 12 meses do fabricante
-- Assistência técnica disponível em Porto Alegre/RS
+**Equipamentos digitais:** notebooks de uso profissional compatíveis com softwares de design/edição; kit de produção de conteúdo (iluminação, áudio, captação).
 
-**Equipamentos de maquiagem:**
-- Poltronas profissionais reguláveis
-- Espelhos com iluminação de LED de temperatura ajustável
-- Luminárias de LED com temperatura de cor entre 5.000K e 6.500K (luz fria profissional)
+**Equipamentos de beleza:** estações de manicure; macas para cílios e sobrancelha; autoclave/esterilizador e itens de biossegurança; ampliação do estúdio de maquiagem com iluminação LED (5.000–6.500K).
 
-**Equipamentos de barbearia:**
-- Cadeiras hidráulicas profissionais
-- Espelhos de barbearia com bancada
-- Kit de ferramentas profissionais (máquinas, tesouras, navalhas)
+**Adequação do espaço:** execução por profissional habilitado; vão em parede não estrutural com portão; divisória em drywall; instalação elétrica conforme NBR 5410 (dimensionada para máquinas industriais).
 
-**Reforma:**
-- Execução por profissional habilitado (pedreiro/mestre de obras)
-- Abertura de vão em parede não estrutural, com instalação de portão metálico
-- Divisória interna em drywall ou material equivalente
-- Instalação elétrica em conformidade com a NBR 5410
+**Sustentabilidade:** equipamentos com certificação INMETRO quando aplicável; preferência por fornecedores locais; iluminação LED (menor consumo).
 
-### Critérios de sustentabilidade
-- Equipamentos com certificação do INMETRO, quando aplicável
-- Preferência por fornecedores locais (Porto Alegre e região metropolitana)
-- Materiais de construção com menor impacto ambiental disponíveis no mercado local
-- Iluminação em LED (menor consumo energético)
-
-### Critérios de desempenho
-- Equipamentos de costura: capacidade de operação contínua por jornada de 4 horas
-- Instrutores: avaliação de satisfação pelos alunos ≥ 4,0 (escala 1 a 5) a cada turma
-- Reforma: conclusão em até 60 dias do início das obras
+**Desempenho:** máquinas aptas a operação contínua por jornada de 4h; instrutores com avaliação ≥ 4,0 (escala 5); adequação concluída em até 60 dias.
 
 ---
 
-## b.3) JUSTIFICATIVAS PARA O NÃO PARCELAMENTO DA CONTRATAÇÃO
+## b.3) JUSTIFICATIVA PARA O PARCELAMENTO/NÃO PARCELAMENTO
 
-O projeto contempla diferentes naturezas de contratação, cada qual com justificativa específica:
-
-**Obras de reforma (não parcelada):**
-A reforma compreende três serviços interdependentes — abertura de parede, construção de divisória e instalação elétrica — que devem ser executados em sequência e idealmente pelo mesmo prestador ou equipe, garantindo coerência técnica e responsabilidade única pela obra. O parcelamento em contratos separados aumentaria o risco de incompatibilidade técnica e dificultaria a gestão da prestação de contas.
-
-**Equipamentos (contratação por lote, com cotação mínima de 3 fornecedores):**
-A aquisição de equipamentos seguirá os princípios da administração pública (item 1.20 do Edital), com cotação de no mínimo 3 fornecedores por item ou lote. O agrupamento por afinidade (ex.: equipamentos de maquiagem em um lote; equipamentos de costura em outro) justifica-se pela especialização dos fornecedores e pela redução de custos logísticos.
-
-**Instrutores (contratação individual por curso):**
-Cada instrutor será contratado individualmente para o curso de sua especialidade, mediante contrato de prestação de serviços com escopo, carga horária e valor definidos. Não há possibilidade de parcelamento, pois cada contrato corresponde a uma especialidade distinta.
-
-**Custos operacionais (pagamento mensal):**
-Energia elétrica, água e internet serão pagos mensalmente conforme consumo, na proporção de uso atribuída ao projeto, mediante apresentação de fatura e memória de cálculo do rateio.
+- **Adequação do espaço (não parcelada):** serviços interdependentes (vão, divisória, elétrica) executados em sequência, com responsabilidade técnica única.
+- **Equipamentos (por lote, cotação mínima de 3 fornecedores):** agrupados por afinidade (costura; digital; beleza), pela especialização dos fornecedores e redução de custo logístico, observando os princípios da administração pública (item 1.20).
+- **Instrutores (individual por curso):** cada contrato corresponde a uma especialidade distinta.
+- **Insumos (aquisições programadas):** matéria-prima da produção-escola adquirida em lotes conforme cronograma das turmas.
 
 ---
 
-## b.4) RESULTADOS PRETENDIDOS EM TERMOS DE ECONOMICIDADE E APROVEITAMENTO DE RECURSOS
+## b.4) RESULTADOS EM TERMOS DE ECONOMICIDADE E APROVEITAMENTO
 
-### Economicidade
+**Uso de infraestrutura própria:** o BZN cede sede, estúdio de maquiagem, salas, auditório e internet como contrapartida não financeira, eliminando custo de locação (referência de mercado ~R$ 2.800/mês; ~R$ 67.200 em 24 meses) sem onerar o FRBL.
 
-**Uso de infraestrutura própria:**
-O Instituto BZN disponibiliza sua sede como contrapartida não financeira, eliminando o custo de aluguel de espaço que, em condições de mercado, representaria aproximadamente R$ 2.800,00/mês, ou R$ 67.200,00 ao longo de 24 meses. Esse valor não onera o FRBL e demonstra o comprometimento da entidade com a eficiência na aplicação dos recursos públicos.
+**Custo por beneficiário:** R$ 500.000,00 para ~300 pessoas ≈ **R$ 1.667,00/pessoa**, muito abaixo do mercado privado (R$ 3.000–8.000/aluno nos mesmos cursos).
 
-**Custo por beneficiário:**
-Com investimento de R$ 350.000,00 para 256 beneficiários, o custo médio por pessoa qualificada é de **R$ 1.367,00** — valor significativamente inferior ao custo médio de cursos equivalentes no mercado privado (R$ 3.000,00 a R$ 8.000,00 por aluno nos mesmos cursos).
+**Perfil de investimento:** 57,8% do orçamento (R$ 289.100,00) é aparelhamento/adequação/insumos — bens com vida útil de 10–15 anos, que beneficiarão turmas muito além das 300 do período, ampliando o retorno social do recurso público.
 
-**Vida útil dos equipamentos:**
-Os equipamentos adquiridos possuem vida útil de 10 a 15 anos, o que significa que o investimento beneficiará turmas muito além das 256 pessoas atendidas no período de vigência da parceria, ampliando exponencialmente o retorno social do recurso público.
+**Produção-escola e fundo rotativo:** a comercialização das peças produzidas gera receita reinvestida em matéria-prima e em estímulo de renda às beneficiárias, aumentando o aproveitamento de cada real investido (Art. 3º, item 26, e Art. 11 do Estatuto).
 
-**Multiplicidade de usos:**
-A infraestrutura implantada (estúdio de maquiagem, sala de costura, equipamentos de barbearia) permitirá a continuidade dos cursos após o término da parceria, com receita própria ou por meio de novos instrumentos de fomento — garantindo retorno contínuo sobre o investimento.
-
-### Aproveitamento de recursos
-
-**Instrutores com experiência de mercado:**
-A contratação de instrutores que atuam profissionalmente nas áreas dos cursos garante formação alinhada com a demanda real do mercado, aumentando a empregabilidade dos formandos e o retorno efetivo do investimento.
-
-**Público-alvo pré-identificado:**
-O Instituto BZN já atende a população da região e possui cadastro de famílias em vulnerabilidade social, o que elimina custos e tempo de mobilização e garante o preenchimento das turmas dentro do cronograma.
-
-**Rede de empresas parceiras:**
-O Instituto articulará parcerias com empresas do setor de vestuário, beleza e serviços da região para absorção dos profissionais formados, maximizando o aproveitamento do investimento em qualificação.
+**Público pré-identificado e rede de empresas:** o BZN já atende a população da região (preenchimento garantido das turmas) e articulará confecções e o setor de beleza para absorção dos egressos.
 
 ---
 
-## b.5) POSICIONAMENTO CONCLUSIVO SOBRE A ADEQUAÇÃO DA CONTRATAÇÃO
+## b.5) POSICIONAMENTO CONCLUSIVO
 
-O presente estudo conclui que a contratação proposta é **técnica e economicamente viável**, pelas seguintes razões:
+**1. Viabilidade técnica:** o BZN reúne sede própria adequada, estúdio de maquiagem em operação, rede de instrutores, experiência em capacitação, localização junto ao público-alvo e gestão com contador e Conselho Fiscal ativos. A adequação é de baixa complexidade e os equipamentos têm ampla disponibilidade local.
 
-**1. Viabilidade técnica:**
-O Instituto BZN reúne todas as condições necessárias para a execução do projeto: sede própria adequada, rede de instrutores qualificados, experiência em ações de capacitação, localização estratégica junto ao público-alvo e estrutura de gestão com contador e Conselho Fiscal ativos. A reforma prevista é de baixa complexidade técnica e os equipamentos a serem adquiridos são de ampla disponibilidade no mercado local.
+**2. Viabilidade econômica:** o orçamento de R$ 500.000,00 é compatível com os bens e serviços previstos (a confirmar por 3 cotações). O custo por beneficiário de ~R$ 1.667,00 evidencia elevada eficiência.
 
-**2. Viabilidade econômica:**
-O orçamento de R$ 350.000,00 é compatível com os bens e serviços previstos, conforme verificação junto ao mercado local. O custo por beneficiário de R$ 1.367,00 representa elevada eficiência na aplicação dos recursos. A contrapartida não financeira de R$ 96.000,00 demonstra o comprometimento da entidade e amplia o valor global do projeto para R$ 446.000,00.
+**3. Adequação ao objeto do FRBL:** o projeto reconstitui a capacidade econômica de comunidade lesada pela enchente de 2024 — dano coletivo à **economia popular** de grande magnitude, com efeitos persistentes (itens 1.3 e 1.4, alíneas **a, c e i**).
 
-**3. Adequação ao objeto do FRBL:**
-O projeto atende diretamente à finalidade do Fundo para Reconstituição de Bens Lesados, reconstituindo a capacidade econômica de uma comunidade lesada pelas enchentes de 2024 — um dano coletivo à economia popular de grande magnitude, com efeitos que persistem até a data de apresentação desta proposta.
+**4. Sustentabilidade:** equipamentos duráveis, produção-escola com fundo rotativo e objetivos estatutários permanentes (Art. 3º, itens 11, 17, 18) asseguram continuidade após a parceria.
 
-**4. Sustentabilidade:**
-A infraestrutura implantada e os equipamentos adquiridos garantem a continuidade das ações após o término da parceria, assegurando impacto duradouro e retorno contínuo sobre o investimento público.
+**5. Conformidade legal:** a proposta atende aos itens 1.3, 1.4 (a, c, i), 1.7, 1.8 e 1.19, com perfil de investimento que afasta a vedação de custeio (item 1.5.a) e sem incidir nas vedações do item 1.6.
 
-**5. Conformidade legal:**
-A proposta atende a todos os requisitos do Edital 02/2026/FRBL, especialmente os itens 1.3, 1.4 (g e i), 1.7, 1.8 e 1.19, não incidindo em nenhuma das vedações previstas nos itens 1.5 e 1.6.
-
-**Conclusão:** A contratação é **adequada, necessária e proporcional** ao atendimento da necessidade identificada, recomendando-se sua aprovação pelo Conselho Gestor do FRBL.
+**Conclusão:** a contratação é **adequada, necessária e proporcional**, recomendando-se sua aprovação pelo Conselho Gestor do FRBL.
 
 ---
-
-*Porto Alegre, junho de 2026.*
-
-*Ricardo Glavam*
-*Presidente — Instituto Brasa Zona Norte / Instituto BZN*
-*CNPJ: 30.586.482/0001-74*
+*Porto Alegre, 2026. — Ricardo Glavam — Presidente — Instituto BZN — CNPJ 30.586.482/0001-74*

@@ -7,59 +7,103 @@
 
 | Campo | Dados |
 |---|---|
-| **Nome do Projeto** | Reconstruindo Vidas: Qualificação Profissional e Empreendedorismo para Comunidades Afetadas pelas Enchentes de 2024 |
+| **Nome do Projeto** | Reconstruindo Vidas — Ecossistema de Costura, Beleza e Empreendedorismo Digital para Vítimas da Enchente de 2024 |
 | **Organização** | Instituto Brasa Zona Norte — Instituto BZN |
 | **CNPJ** | 30.586.482/0001-74 |
-| **Representante Legal** | Ricardo Glavam |
-| **Cargo** | Presidente |
-| **Endereço** | Av. Baltazar de Oliveira Garcia, 430 — Bairro São Sebastião — Porto Alegre/RS — CEP 91130-000 |
-| **Valor Solicitado** | R$ 500.000,00 |
-| **Contrapartida Não Financeira** | R$ 96.000,00 |
+| **Representante Legal** | Ricardo Glavam — Presidente |
+| **Endereço** | Av. Baltazar de Oliveira Garcia, 430 — Porto Alegre/RS |
+| **Valor Solicitado ao FRBL** | R$ 500.000,00 |
+| **Contrapartida Não Financeira** | Estrutura própria (estúdio de maquiagem, salas, auditório, internet) |
 | **Vigência** | 24 meses |
-| **Área de Execução** | Porto Alegre/RS e região metropolitana |
+| **Área de Execução** | Porto Alegre/RS e região metropolitana (Estado do RS) |
+
+---
+
+## VISÃO GERAL — O ECOSSISTEMA
+
+O projeto não é uma soma de cursos isolados: é um **ecossistema integrado de geração de renda** que conduz a pessoa da qualificação até a inserção efetiva no mundo do trabalho, por dois caminhos — **emprego formal** ou **negócio próprio (MEI)**. Três eixos produtivos se conectam por um núcleo transversal de empreendedorismo:
+
+```
+        NÚCLEO TRANSVERSAL (atende os 3 eixos)
+   Empreendedorismo Resiliente · Gestão Financeira · Educação Financeira
+                              │
+        ┌─────────────────────┼─────────────────────┐
+   EIXO 1                 EIXO 2                  EIXO 3
+   COSTURA &            EMPREENDEDORISMO          BELEZA &
+   CONFECÇÃO            DIGITAL / SOCIAL MEDIA    ESTÉTICA
+   (carro-chefe:        (10 notebooks:            (maquiagem +
+   produção-escola      divulga e vende a         manicure +
+   para venda)          produção dos eixos        cílios +
+                        1 e 3)                     sobrancelha)
+                              │
+                    ↓ RESULTADO ↓
+        EMPREGO FORMAL  ·  MEI / NEGÓCIO PRÓPRIO  ·  RENDA
+```
+
+O **Eixo 1 (Costura)** produz; o **Eixo 3 (Beleza)** presta serviço; o **Eixo 2 (Social Media)** ensina a divulgar e vender essa produção/serviço online; e o **núcleo transversal** ensina a formalizar (MEI), precificar e gerir o negócio. É um circuito completo: **qualificar → produzir → vender → gerar renda**.
 
 ---
 
 ## a) RAZÕES QUE JUSTIFICAM A CELEBRAÇÃO DA PARCERIA
 
-As enchentes de maio de 2024 no Rio Grande do Sul constituíram a maior catástrofe climática da história do Estado, devastando comunidades inteiras e destruindo a base econômica de milhares de famílias. O Bairro Sarandi, em Porto Alegre, figura entre os mais gravemente afetados: famílias perderam bens, empregos, renda e perspectiva de futuro. O impacto sobre a **economia popular** foi profundo e estrutural — não apenas material, mas também na capacidade produtiva e no vínculo dessas pessoas com o mercado de trabalho.
+As enchentes de maio de 2024 no Rio Grande do Sul constituíram a maior catástrofe climática da história do Estado, devastando comunidades inteiras e destruindo a **economia popular** de milhares de famílias. O Bairro Sarandi, em Porto Alegre — vizinho imediato da sede do Instituto BZN —, figurou entre os mais gravemente afetados: perdas de residências, comércios, equipamentos de trabalho e, sobretudo, da **capacidade produtiva e de geração de renda** de uma população já vulnerável.
 
-O Instituto BZN foi fundado em resposta direta a essa tragédia, instalando-se ao lado do Bairro Sarandi exatamente para atender essa população. Com sede própria na Av. Baltazar de Oliveira Garcia, 430 — Bairro São Sebastião — a instituição está geograficamente inserida no coração da área afetada, conhece a realidade de seus moradores e já desenvolve ações de assistência social, saúde e educação desde 2018.
+O Instituto BZN atua na região desde 2018 nas áreas de assistência social, saúde e educação e, após a tragédia de 2024, **redirecionou e intensificou** sua atuação para a reconstrução econômica das vítimas. Este projeto nasce da constatação de que reconstruir essa economia exige mais que assistência emergencial: exige **qualificação profissional, capacidade empreendedora e geração de renda sustentável**.
 
-O presente projeto nasce da constatação de que a reconstrução econômica dessa população exige mais do que assistência emergencial: exige **qualificação profissional**, **capacidade empreendedora** e **geração de renda sustentável**. Os cursos propostos foram selecionados com base em três critérios objetivos:
+A escolha dos eixos é estratégica e baseada em demanda real de mercado:
 
-1. **Demanda real de mercado:** o Rio Grande do Sul enfrenta escassez documentada de profissionais qualificados em costura e confecção, a ponto de empresas gaúchas contratarem mão de obra de Santa Catarina. O projeto endereça diretamente essa lacuna.
+1. **Costura — lacuna sistêmica do RS:** o Estado enfrenta escassez documentada de mão de obra qualificada em costura e confecção, a ponto de as confecções gaúchas enviarem peças para fechamento em **Santa Catarina** — perda econômica para o RS. Formar costureiras aqui não gera apenas renda individual: **preenche uma lacuna estrutural do mercado gaúcho** e reconstitui capacidade produtiva perdida na enchente.
 
-2. **Baixa barreira de entrada:** os cursos propostos permitem que pessoas sem escolaridade avançada ingressem rapidamente no mercado de trabalho formal ou informal, inclusive como microempreendedores individuais (MEI).
+2. **Produção-escola, não só aula:** as beneficiárias não apenas aprendem — **produzem para venda** desde a formação, gerando renda imediata e portfólio, e saem aptas a serem **contratadas por confecções** ou a **abrir seu próprio negócio (MEI)**.
 
-3. **Efeito multiplicador:** os módulos de empreendedorismo, gestão financeira e redes sociais potencializam os demais cursos práticos, transformando aprendizes em empreendedores capazes de gerir seu próprio negócio.
+3. **Beleza e Estética — baixa barreira, alta empregabilidade:** maquiagem (o Instituto já possui estúdio próprio), manicure, alongamento de cílios e design de sobrancelhas permitem inserção rápida e autônoma, com forte demanda local.
 
-A parceria com o FRBL representa, portanto, uma ação direta de **reconstituição da economia popular** de uma comunidade lesada por dano coletivo de grande magnitude — exatamente a finalidade para a qual o Fundo foi criado.
+4. **Empreendedorismo digital como multiplicador:** os cursos de social media, empreendedorismo resiliente, gestão e educação financeira transformam aprendizes em **empreendedores capazes de divulgar, vender e gerir** — potencializando todos os demais eixos.
+
+A parceria com o FRBL é, portanto, ação direta de **reconstituição da economia popular** de uma comunidade lesada por dano coletivo de grande magnitude — exatamente a finalidade para a qual o Fundo foi criado (item 1.3 do Edital).
+
+---
+
+## a.1) MATRIZ DE ALINHAMENTO CIRÚRGICO — Projeto × Estatuto × Edital
+
+Cada componente do projeto está ancorado, simultaneamente, em um objetivo do **Art. 3º do Estatuto do BZN** e em uma aplicação admitida no **item 1.4 do Edital**:
+
+| Componente do Projeto | Objetivo do Art. 3º (Estatuto BZN) | Aplicação admitida (Edital 1.4) |
+|---|---|---|
+| **Aquisição de máquinas de costura** (aparelhamento do polo de confecção) | Item 11 (empregabilidade, empreendedorismo no mundo do trabalho); Item 17 (geração de renda) | **c)** modernização tecnológica, capacitação e **aparelhamento finalístico** |
+| **Curso de costura + produção-escola para venda** | Item 18 (qualificação profissional); Item 11; Item 26 (comercialização de produção p/ autossustentabilidade) | **i)** inclusão socioeconômica que **promove o trabalho** |
+| **10 notebooks + curso de Social Media** | Item 17 (startups, negócios de impacto, geração de renda); Item 19 (capacitação p/ empregabilidade) | **c)** aparelhamento/modernização tecnológica; **a)** eventos educativos |
+| **Empreendedorismo Resiliente / Gestão / Educação Financeira** | Item 11; Item 17; Item 9 (desenvolvimento econômico e combate à pobreza) | **i)** promoção do trabalho; **a)** eventos educativos |
+| **Beleza (maquiagem, manicure, cílios, sobrancelha)** + equipamentos | Item 11; Item 17; Item 18 | **c)** aparelhamento; **i)** inclusão socioeconômica |
+| **Incubação / formalização MEI / vitrine digital** | Item 11 (permanência no mundo do trabalho); Item 17 (negócios de impacto) | **i)** políticas de inclusão socioeconômica |
+| **Público-alvo: vítimas da enchente / economia popular** | Item 1 (garantia de direitos); Item 13 (grupos em risco social) | **1.3** — ressarcir dano à **economia popular** e a interesse coletivo |
+
+**Conclusão:** não há componente do projeto sem duplo lastro estatutário e editalício. O objeto é **integralmente** coberto pela finalidade do FRBL e pelos objetivos institucionais do BZN.
 
 ---
 
 ## b) IDENTIFICAÇÃO E DESCRIÇÃO DO OBJETO
 
-O objeto da presente parceria é a **implantação de um Centro de Qualificação Profissional e Empreendedorismo** no Instituto BZN, compreendendo:
+O objeto é a **implantação de um Ecossistema de Qualificação, Produção e Geração de Renda** na sede do Instituto BZN, compreendendo:
 
-1. **Adequação de infraestrutura física** (a ser executada com recursos FRBL): abertura de passagem na parede dos fundos da garagem com instalação de portão de acesso, construção de divisória interna para criação de sala de costura, e instalação elétrica e iluminação.
+1. **Aquisição de equipamentos (recursos FRBL):** parque de **máquinas de costura industriais** (o Instituto não as possui) para um polo de confecção com produção-escola; **10 notebooks** e kit de produção de conteúdo para o eixo de social media/empreendedorismo digital; e equipamentos das áreas de **manicure, alongamento de cílios e design de sobrancelhas**, além da ampliação do estúdio de maquiagem existente.
 
-2. **Aquisição de equipamentos** (a ser realizada com recursos FRBL): máquinas de costura industriais (o Instituto não possui), kit de barbearia profissional e kit de manicure. O estúdio de maquiagem com poltronas, espelhos e iluminação, as salas de aula com mobiliário e o auditório são **estrutura própria do Instituto**, cedida como contrapartida não financeira.
+2. **Adequação do espaço (recursos FRBL):** criação da sala de costura (abertura de vão, portão, divisória), adequação elétrica para máquinas industriais e mobiliário das estações de trabalho.
 
-3. **Execução de 8 cursos de qualificação profissional** ao longo de 24 meses, beneficiando 256 pessoas em situação de vulnerabilidade socioeconômica, prioritariamente da região afetada pelas enchentes de 2024.
+3. **Execução dos cursos e da produção-escola** ao longo de 24 meses, com **três eixos produtivos** e um **núcleo transversal de empreendedorismo**, beneficiando pessoas em vulnerabilidade prioritariamente atingidas pela enchente de 2024.
 
-### Cursos oferecidos:
+4. **Incubação e inserção:** mentoria para formalização como MEI, montagem de vitrine digital e articulação com empresas locais (confecções e setor de beleza) para contratação dos egressos.
 
-| Curso | Carga Horária | Modalidade |
+### Eixos e cursos
+
+| Eixo | Cursos / Módulos | Natureza |
 |---|---|---|
-| Empreendedorismo Resiliente | 16h | Teórico-prático |
-| Gestão Financeira para Empreendedores | 16h | Teórico-prático |
-| Educação Financeira | 12h | Teórico |
-| Social Media para Negócios | 16h | Prático |
-| Maquiagem Profissional | 96h | Prático (4 meses) |
-| Manicure e Nail Design | 16h | Prático |
-| Corte e Costura | 96h | Prático (4 meses) |
-| Barbearia Profissional | 16h | Prático |
+| **1 — Costura & Confecção** | Corte e Costura + Modelagem; **Produção-Escola** (produção para venda) | Prático (carga longa) |
+| **2 — Empreend. Digital** | Social Media para Negócios; Produção de conteúdo | Prático (10 notebooks) |
+| **3 — Beleza & Estética** | Maquiagem Profissional; Manicure e Nail Design; Alongamento de Cílios; Design de Sobrancelhas | Prático |
+| **Núcleo Transversal** | Empreendedorismo Resiliente; Gestão Financeira para Empreendedores; Educação Financeira | Teórico-prático |
+
+*Observação de escopo: a barbearia constante de versões anteriores foi substituída pela vertical de estética (cílios e sobrancelha), conforme a estrutura de estúdio já existente no Instituto.*
 
 ---
 
@@ -67,188 +111,96 @@ O objeto da presente parceria é a **implantação de um Centro de Qualificaçã
 
 | Meta | Descrição | Indicador | Quantidade |
 |---|---|---|---|
-| **Meta 1** | Reforma e adequação do espaço físico | Obra concluída e laudada | 1 obra |
-| **Meta 2** | Aquisição e instalação de equipamentos | Equipamentos instalados e operacionais | 100% dos itens |
-| **Meta 3** | Realização dos cursos — Ano 1 | Turmas concluídas com ≥ 75% de frequência | 16 turmas / 128 alunos |
-| **Meta 4** | Realização dos cursos — Ano 2 | Turmas concluídas com ≥ 75% de frequência | 16 turmas / 128 alunos |
-| **Meta 5** | Certificação dos concluintes | Certificados emitidos | 256 certificados |
-| **Meta 6** | Inserção no mercado de trabalho | Alunos empregados ou MEI formalizados (acompanhamento 6 meses pós-curso) | ≥ 60% dos formandos |
+| **Meta 1** | Adequação do espaço (sala de costura, elétrica, mobiliário) | Espaço laudado e operacional | 1 obra |
+| **Meta 2** | Aquisição e instalação dos equipamentos (costura, notebooks, beleza) | Itens instalados e operacionais | 100% dos itens |
+| **Meta 3** | Qualificação — Eixo Costura | Turmas concluídas (≥75% freq.) | 6 turmas / 96 pessoas |
+| **Meta 4** | Qualificação — Eixo Beleza | Turmas concluídas (≥75% freq.) | 8 turmas / 120 pessoas |
+| **Meta 5** | Qualificação — Eixo Digital + Transversal | Turmas concluídas (≥75% freq.) | 6 turmas / 120 pessoas |
+| **Meta 6** | Produção-escola comercializada | Peças produzidas e vendidas | ≥ 2.000 peças |
+| **Meta 7** | Certificação | Certificados emitidos | ≥ 300 |
+| **Meta 8** | Inserção (emprego, MEI ou renda) | Egressos inseridos em até 6 meses | ≥ 50% dos formandos |
+| **Meta 9** | Formalização de negócios | MEIs formalizados | ≥ 60 |
+
+*Beneficiários diretos: aproximadamente **300 pessoas** (considerando participação em mais de um módulo do ecossistema).*
 
 ---
 
 ## d) ETAPAS DE EXECUÇÃO
 
-### Etapa 1 — Preparação (Meses 1 e 2)
-- Contratação do coordenador de projetos
-- Contratação de instrutores
-- Início das obras de reforma (abertura de parede, portão, divisória, iluminação)
-- Processo de aquisição de equipamentos (cotações, seleção de fornecedores)
-- Divulgação do projeto na comunidade e seleção dos alunos — 1ª turma
+**Etapa 1 — Estruturação (Meses 1–3):** contratação da coordenação e instrutores; adequação do espaço; processo de aquisição de equipamentos (cotação mínima de 3 fornecedores por item/lote, conforme item 1.20); divulgação e seleção da 1ª leva de beneficiários.
 
-### Etapa 2 — Implantação (Meses 3 e 4)
-- Conclusão das obras
-- Recebimento e instalação dos equipamentos
-- Início das turmas dos cursos curtos (Empreendedorismo, Gestão Financeira, Educação Financeira, Social Media, Manicure, Barbearia)
-- Início das turmas dos cursos longos — Maquiagem Profissional e Corte e Costura (Turma 1 — Ano 1)
+**Etapa 2 — Implantação (Meses 3–4):** instalação dos equipamentos; início das primeiras turmas de todos os eixos; abertura da produção-escola de costura.
 
-### Etapa 3 — Execução Ano 1 (Meses 3 a 12)
-- Realização das 16 turmas do Ano 1
-- Emissão de certificados
-- Avaliação de resultados e satisfação dos alunos
-- Início do monitoramento de inserção no mercado
+**Etapa 3 — Execução e Produção — Ano 1 (Meses 4–12):** ciclos formativos rotativos; produção-escola em operação; mentoria de incubação; primeiras formalizações de MEI; monitoramento de inserção.
 
-### Etapa 4 — Execução Ano 2 (Meses 13 a 24)
-- Seleção de novos alunos
-- Realização das 16 turmas do Ano 2
-- Emissão de certificados
-- Avaliação final e relatório de impacto
-- Prestação de contas final
+**Etapa 4 — Execução, Incubação e Impacto — Ano 2 (Meses 13–24):** novas turmas; consolidação da vitrine digital; feiras/mostras de venda; articulação com empresas para contratação; avaliação de impacto e prestação de contas final.
 
 ---
 
 ## e) CRONOGRAMA FÍSICO
 
-| Atividade | M1 | M2 | M3 | M4 | M5-M6 | M7-M12 | M13-M18 | M19-M24 |
-|---|---|---|---|---|---|---|---|---|
-| Contratações (coord. + instrutores) | ✓ | ✓ | | | | | | |
-| Obras de reforma | ✓ | ✓ | ✓ | | | | | |
-| Aquisição de equipamentos | ✓ | ✓ | ✓ | | | | | |
-| Divulgação e seleção — Ano 1 | ✓ | ✓ | | | | | | |
-| Cursos curtos — Ano 1 | | | ✓ | ✓ | ✓ | ✓ | | |
-| Maquiagem e Costura — Ano 1 | | | ✓ | ✓ | ✓ | ✓ | | |
-| Avaliação Ano 1 | | | | | | ✓ | | |
-| Divulgação e seleção — Ano 2 | | | | | | ✓ | | |
-| Cursos curtos — Ano 2 | | | | | | | ✓ | ✓ |
-| Maquiagem e Costura — Ano 2 | | | | | | | ✓ | ✓ |
-| Avaliação final e relatório | | | | | | | | ✓ |
-| Prestação de contas | | | | | | ✓ | | ✓ |
+| Atividade | M1–M3 | M4–M6 | M7–M12 | M13–M18 | M19–M24 |
+|---|---|---|---|---|---|
+| Contratações (coordenação + instrutores) | ✓ | | | | |
+| Adequação do espaço | ✓ | | | | |
+| Aquisição e instalação de equipamentos | ✓ | ✓ | | | |
+| Divulgação e seleção | ✓ | ✓ | ✓ | ✓ | |
+| Turmas — Costura | | ✓ | ✓ | ✓ | ✓ |
+| Turmas — Beleza | | ✓ | ✓ | ✓ | ✓ |
+| Turmas — Social Media + Transversal | | ✓ | ✓ | ✓ | ✓ |
+| Produção-escola e comercialização | | ✓ | ✓ | ✓ | ✓ |
+| Incubação / formalização MEI / vitrine | | | ✓ | ✓ | ✓ |
+| Feiras e articulação com empresas | | | ✓ | ✓ | ✓ |
+| Avaliação e prestação de contas | | | ✓ | | ✓ |
 
 ---
 
 ## f) PLANO DE APLICAÇÃO DOS RECURSOS
 
-### Recursos Solicitados ao FRBL — R$ 500.000,00
+### Recursos solicitados ao FRBL — R$ 500.000,00
 
-#### 1. Equipe Permanente
-| Cargo | Regime | Salário | Encargos | Custo/mês | 24 meses |
-|---|---|---|---|---|---|
-| Coordenador de Projetos | CLT | R$ 3.000,00 | R$ 1.560,00 | R$ 4.560,00 | R$ 109.440,00 |
-| Instituto BZN — Coord. Administrativo | PJ | R$ 1.500,00 | — | R$ 1.500,00 | R$ 36.000,00 |
-| Assistente Social (12h/semana) | CLT | R$ 2.000,00 | R$ 1.040,00 | R$ 3.040,00 | R$ 72.960,00 |
-| Agente de Acolhimento e Orientação | MEI | R$ 1.800,00 | — | R$ 1.800,00 | R$ 43.200,00 |
-| Assistente Administrativo | MEI | R$ 1.200,00 | — | R$ 1.200,00 | R$ 28.800,00 |
-| **Subtotal Equipe** | | | | | **R$ 290.400,00** |
+| # | Categoria | Valor | % |
+|---|---|---|---|
+| A | **Equipamentos** (costura, digital, beleza) | R$ 184.100,00 | 36,8% |
+| B | **Adequação do espaço e mobiliário** | R$ 45.000,00 | 9,0% |
+| C | **Insumos pedagógicos e produção-escola** | R$ 60.000,00 | 12,0% |
+| D | **Instrutores e formação** | R$ 152.320,00 | 30,5% |
+| E | **Coordenação e incubação** | R$ 45.000,00 | 9,0% |
+| F | **Divulgação, certificação e monitoramento** | R$ 13.580,00 | 2,7% |
+| | **TOTAL** | **R$ 500.000,00** | **100%** |
 
-#### 2. Instrutores
-| Curso | CH | Turmas | Horas total | R$/h | Total |
-|---|---|---|---|---|---|
-| Educação Financeira | 12h | 4 | 48h | R$ 80,00 | R$ 3.840,00 |
-| Empreendedorismo Resiliente | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Gestão Financeira p/ Empreendedores | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Social Media para Negócios | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Manicure e Nail Design | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Barbearia Profissional | 16h | 4 | 64h | R$ 80,00 | R$ 5.120,00 |
-| Maquiagem Profissional | 96h | 4 | 384h | R$ 80,00 | R$ 30.720,00 |
-| Corte e Costura | 96h | 4 | 384h | R$ 80,00 | R$ 30.720,00 |
-| **Subtotal Instrutores** | | 32 turmas | 1.136h | | **R$ 90.880,00** |
-
-#### 3. Obras e Infraestrutura
-| Item | Valor |
-|---|---|
-| Abertura de parede dos fundos da garagem e instalação de portão de acesso | R$ 15.000,00 |
-| Divisória interna para sala de costura | R$ 10.000,00 |
-| Instalação elétrica e iluminação da sala de costura | R$ 3.000,00 |
-| **Subtotal Obras** | **R$ 28.000,00** |
-
-#### 4. Equipamentos
-| Item | Qtd | Valor |
-|---|---|---|
-| Máquinas de costura industriais | 4 | R$ 48.000,00 |
-| Kit barbearia profissional (cadeira hidráulica, espelho, ferramentas) | 1 | R$ 12.000,00 |
-| Kit manicure (mesa, equipamentos, cabine de exaustão) | 1 | R$ 10.000,00 |
-| **Subtotal Equipamentos** | | **R$ 70.000,00** |
-
-#### 5. Custos Operacionais
-| Item | Mês | 24 meses |
-|---|---|---|
-| Energia elétrica — fração proporcional ao projeto | R$ 200,00 | R$ 4.800,00 |
-| Água — fração proporcional ao projeto | R$ 100,00 | R$ 2.400,00 |
-| Material didático e consumíveis | — | R$ 3.520,00 |
-| Marketing e comunicação | — | R$ 10.000,00 |
-| **Subtotal Operacional** | | **R$ 20.720,00** |
-
-| | |
-|---|---|
-| **TOTAL GERAL SOLICITADO** | **R$ 500.000,00** |
-
----
-
-### Contrapartida Não Financeira — Instituto BZN
-
-O Instituto BZN cede gratuitamente ao projeto os seguintes espaços e serviços, todos já existentes e em pleno funcionamento, sem ônus ao FRBL:
-
-- **Auditório** com capacidade para 50 pessoas, equipado com projetor, tela retrátil e quadro branco
-- **Sala de aula 1** mobiliada com cadeiras universitárias
-- **Sala de aula 2** mobiliada com mesas e cadeiras
-- **Estúdio de maquiagem** equipado com poltronas profissionais, espelhos e iluminação adequada
-- **Internet** (banda larga)
-- **Apoio administrativo institucional** durante toda a vigência do projeto
-
-*Valoração monetária: a ser preenchida conforme campo exigido no formulário eletrônico do MPRS.*
+> **Perfil de investimento:** categorias A+B+C (aparelhamento, adequação e insumos) somam **R$ 289.100,00 (57,8%)**, caracterizando o projeto como **investimento finalístico** (item 1.4.c) — e não custeio (afastando a vedação do item 1.5.a). O detalhamento item a item consta no documento `orcamento_final.md`.
 
 ---
 
 ## g) CRONOGRAMA FINANCEIRO DE DESEMBOLSO
 
-| Parcela | Período | Valor | Destinação Principal |
+| Parcela | Mês | Valor | Destinação principal |
 |---|---|---|---|
-| 1ª parcela | Mês 1 | R$ 200.000,00 | Obras, equipamentos, contratações iniciais |
-| 2ª parcela | Mês 7 | R$ 200.000,00 | Instrutores Ano 1, equipe, operacional |
-| 3ª parcela | Mês 13 | R$ 100.000,00 | Instrutores Ano 2, equipe, operacional |
-| **Total** | | **R$ 500.000,00** | |
+| 1ª | Mês 1 | R$ 230.000,00 | Adequação, equipamentos, contratações iniciais |
+| 2ª | Mês 7 | R$ 170.000,00 | Instrutores e insumos — Ano 1; incubação |
+| 3ª | Mês 13 | R$ 100.000,00 | Instrutores e insumos — Ano 2; monitoramento |
+| | | **R$ 500.000,00** | |
 
 ---
 
 ## h) DESCRIÇÃO DOS BENS E SERVIÇOS
 
-### Bens a serem adquiridos (com recursos FRBL):
-- 4 máquinas de costura industrial (overlock e reta industrial — cotação mínima 3 fornecedores)
-- Kit completo de barbearia profissional (cadeira hidráulica, espelho com bancada, ferramentas)
-- Kit completo de manicure (mesa, equipamentos, cabine de exaustão)
+**Bens a adquirir (recursos FRBL):** máquinas de costura industriais (reta, overlock, galoneira, interlock, acabamento, corte); mesas de corte e ferros industriais; 10 notebooks e kit de produção de conteúdo; equipamentos de manicure, cílios e sobrancelha; ampliação do estúdio de maquiagem; mobiliário das estações. Todos com cotação mínima de 3 fornecedores (item 1.20) e gravados com cláusula de inalienabilidade (item 1.21).
 
-### Serviços a serem realizados:
-- Reforma civil (abertura de parede, instalação de portão, divisória, elétrica)
-- Coordenação de projetos (24 meses)
-- Ministração de cursos (instrutores especializados)
-- Assessoria contábil
+**Serviços a realizar:** adequação civil e elétrica do espaço; ministração dos cursos (instrutores); coordenação e mentoria de incubação; assessoria para formalização de MEI.
 
 ---
 
 ## i) CONTRAPARTIDA NÃO FINANCEIRA
 
-O Instituto BZN oferta como contrapartida não financeira a disponibilização gratuita de sua estrutura física e operacional já existente, sem qualquer ônus ao FRBL. Todos os bens foram adquiridos com recursos próprios do Instituto antes do início desta parceria:
-
-- **Auditório** com capacidade para 50 pessoas, projetor, tela retrátil e quadro branco
-- **2 salas de aula** mobiliadas (cadeiras universitárias, mesas e cadeiras)
-- **Estúdio de maquiagem** completo (poltronas profissionais, espelhos e iluminação — já instalado)
-- **Internet** (banda larga)
-- **Apoio administrativo institucional** durante toda a vigência
-
-Estes espaços e serviços **não serão adquiridos com recursos do FRBL** e não integram o orçamento solicitado de R$ 500.000,00.
+O Instituto BZN cede, sem ônus ao FRBL, estrutura própria já existente: **estúdio de maquiagem** (poltronas, espelhos e iluminação profissional), **salas de aula**, **auditório** (projetor, tela, quadro), **internet** (banda larga) e **apoio administrativo institucional**. Todos adquiridos com recursos próprios antes desta parceria e não integrantes do valor solicitado. *Valoração a preencher no formulário eletrônico do MPRS.*
 
 ---
 
 ## j) CAPACIDADE TÉCNICA E OPERACIONAL DO PROPONENTE
 
-O Instituto Brasa Zona Norte — BZN atua desde 2018 nas áreas de assistência social, saúde e educação, com sede própria em Porto Alegre/RS. A entidade:
-
-- Possui estatuto social com objetivos expressamente alinhados à qualificação profissional, empregabilidade e empreendedorismo (Art. 3°, itens 11, 17, 18 e 19 do Estatuto);
-- Dispõe de infraestrutura física própria totalmente compatível com a execução do projeto;
-- Conta com Conselho Fiscal ativo e escrituração contábil em conformidade com as Normas Brasileiras de Contabilidade;
-- Possui contador responsável;
-- Já desenvolveu atividades de capacitação e qualificação profissional com recursos próprios;
-- Está instalada ao lado do Bairro Sarandi, área diretamente afetada pelas enchentes de 2024, garantindo acesso direto ao público-alvo;
-- Possui rede de instrutores qualificados disponíveis para os cursos propostos.
+O Instituto BZN atua desde **2018** (CNPJ 30.586.482/0001-74), com sede própria em Porto Alegre/RS, cumprindo com folga o tempo mínimo de funcionamento (item 1.1). A entidade: possui estatuto com objetivos expressamente alinhados a qualificação, empregabilidade e empreendedorismo (**Art. 3º, itens 9, 11, 17, 18 e 19**); dispõe de infraestrutura própria compatível (inclusive estúdio de maquiagem em operação); mantém **Conselho Fiscal** ativo e escrituração conforme as Normas Brasileiras de Contabilidade; está instalada junto ao Bairro Sarandi, no coração da área atingida, com acesso direto ao público-alvo; e conta com rede de instrutores qualificados.
 
 ---
 
@@ -260,48 +212,29 @@ Não há interveniente previsto nesta proposta.
 
 ## l) METODOLOGIA DE AFERIÇÃO DOS RESULTADOS
 
-Os resultados serão aferidos pelos seguintes instrumentos:
+1. **Frequência:** controle de presença (mínimo 75% para certificação).
+2. **Avaliação de aprendizagem:** avaliação prática ao final de cada curso.
+3. **Certificação:** emissão de certificado aos aprovados.
+4. **Produção-escola:** registro de peças produzidas e comercializadas e da receita reinvestida.
+5. **Satisfação:** pesquisa ao final de cada turma (meta ≥ 4,0 em escala de 5).
+6. **Acompanhamento pós-curso (3 e 6 meses):** verificação de inserção (emprego, MEI, renda).
+7. **Relatórios semestrais** ao FRBL.
 
-1. **Frequência:** controle de presença em todas as aulas — meta mínima de 75% de frequência para certificação.
-2. **Avaliação de aprendizagem:** aplicação de avaliação prática ao final de cada curso.
-3. **Certificação:** emissão de certificado de conclusão para os alunos que atingirem a frequência mínima e aprovação na avaliação prática.
-4. **Pesquisa de satisfação:** aplicação de formulário de satisfação ao final de cada turma.
-5. **Acompanhamento pós-curso:** contato com os formandos 3 e 6 meses após a conclusão, por telefone ou aplicativo de mensagens, para verificar inserção no mercado de trabalho, formalização como MEI ou abertura de negócio.
-6. **Relatórios semestrais:** elaboração de relatório de atividades e resultados a cada 6 meses, com encaminhamento ao FRBL.
-
-**Indicadores de impacto:**
-- Número de alunos certificados / total de matriculados
-- Percentual de alunos empregados ou empreendedores 6 meses após o curso
-- Número de MEIs formalizados a partir do projeto
-- Avaliação de satisfação média ≥ 4,0 (escala de 1 a 5)
+**Indicadores de impacto:** taxa de certificação; % de egressos inseridos em 6 meses; nº de MEIs formalizados; nº de peças produzidas/vendidas; renda média gerada; satisfação média.
 
 ---
 
 ## m) PLANO DE SUSTENTABILIDADE DO OBJETO
 
-### Durabilidade
-Os equipamentos adquiridos (máquinas de costura, estúdio de maquiagem, equipamentos de barbearia e manicure) possuem vida útil estimada de 10 a 15 anos com manutenção adequada. A infraestrutura reformada (passagem, portão, divisória) é permanente.
+**Durabilidade:** máquinas e equipamentos têm vida útil de 10–15 anos; a adequação do espaço é permanente. Os bens permanecerão na sede do BZN, em inventário patrimonial, com **cláusula de inalienabilidade** (item 1.21) e promessa de transferência à administração pública ou entidade congênere em caso de extinção.
 
-### Continuidade das atividades
-O Instituto BZN tem como objetivo estatutário permanente a promoção da qualificação profissional e do empreendedorismo (Art. 3°, itens 11, 17, 18). Após o término da parceria, os cursos continuarão a ser ofertados com:
+**Fundo rotativo da produção-escola:** a receita da venda das peças produzidas é reinvestida em matéria-prima e em apoio às próprias beneficiárias (na forma de estímulo à renda), criando um **ciclo autossustentável** amparado no Art. 3º, item 26, e no Art. 11 do Estatuto (aplicação integral do superávit nos objetivos, sem distribuição de lucros).
 
-- **Receita própria:** cobrança simbólica de taxa de material aos alunos com capacidade de contribuição;
-- **Novos editais e parcerias:** o histórico de execução deste projeto habilitará o Instituto a concorrer a novos instrumentos de fomento;
-- **Parcerias com empresas locais:** especialmente do setor de vestuário e beleza, que demandam os profissionais formados pelo projeto;
-- **Programas governamentais:** qualificação via Pronatec, SENAI, SENAC e similares.
+**Continuidade:** por objetivo estatutário permanente (Art. 3º, itens 11, 17, 18), o BZN seguirá ofertando os cursos após a parceria, com receita própria, novos editais e **parcerias com empresas** de confecção e beleza da região (que demandam os profissionais formados) e programas públicos (Pronatec/SENAI/SENAC).
 
-### Manutenção dos equipamentos
-- Máquinas de costura: manutenção semestral preventiva estimada em R$ 300,00/máquina/ano
-- Demais equipamentos: manutenção anual custeada com recursos próprios do Instituto
-- Responsável: Tesoureiro do Instituto BZN, com supervisão do Conselho Fiscal
-
-### Armazenamento e guarda dos bens
-Todos os bens adquiridos permanecerão na sede do Instituto BZN, registrados em inventário patrimonial, com cláusula de inalienabilidade conforme exigência do FRBL (item 1.21 do Edital).
+**Manutenção:** manutenção preventiva das máquinas custeada com recursos próprios do Instituto, sob responsabilidade do Tesoureiro e supervisão do Conselho Fiscal.
 
 ---
 
-*Porto Alegre, junho de 2026.*
-
-*Ricardo Glavam*
-*Presidente — Instituto Brasa Zona Norte / Instituto BZN*
-*CNPJ: 30.586.482/0001-74*
+*Porto Alegre, 2026.*
+*Ricardo Glavam — Presidente — Instituto Brasa Zona Norte / Instituto BZN — CNPJ 30.586.482/0001-74*
