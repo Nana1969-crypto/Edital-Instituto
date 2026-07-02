@@ -30,17 +30,19 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 
 ## 3. O QUE SE PEDE AO FRBL — ORÇAMENTO ENXUTO (de baixo pra cima)
 
-### 3.1 Equipamentos — R$ 84.650
+### 3.1 Equipamentos — R$ 76.350
 
-**a) Costura — sala com rotação de alunas — R$ 31.650**
+**a) Costura — máquinas a adquirir — R$ 23.350**
+*(o Instituto já possui 2 retas + 1 galoneira, que entram como contrapartida — ver seção 5)*
 | Item | Qtd | Unit. | Total |
 |---|---|---|---|
-| Reta industrial (direct drive) | 4 | R$ 2.800 | R$ 11.200 |
+| Reta industrial (direct drive) | 3 | R$ 2.800 | R$ 8.400 |
 | Overloque industrial | 2 | R$ 3.200 | R$ 6.400 |
-| Galoneira industrial | 1 | R$ 5.500 | R$ 5.500 |
 | Máquina de corte (disco 4") | 1 | R$ 850 | R$ 850 |
 | Ferro industrial com caldeira | 1 | R$ 2.700 | R$ 2.700 |
 | Mesa de corte + manequins + kit modelagem + tesouras | lote | — | R$ 5.000 |
+
+> **Parque final da sala de costura:** 5 retas + 2 overloques + 1 galoneira + corte + ferro (somando o que o Instituto já possui).
 
 **b) Empreendedorismo Digital / Social Media — R$ 33.500**
 | Item | Qtd | Unit. | Total |
@@ -91,17 +93,17 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 
 | Categoria | Valor | % |
 |---|---|---|
-| Equipamentos | R$ 84.650 | 34,1% |
-| Adequação do espaço | R$ 25.000 | 10,1% |
-| Insumos e produção-escola | R$ 32.000 | 12,9% |
-| Instrutores | R$ 67.320 | 27,1% |
-| Coordenação e incubação | R$ 32.000 | 12,9% |
-| Divulgação/certificação/monitoramento | R$ 7.000 | 2,8% |
-| **TOTAL SOLICITADO AO FRBL** | **R$ 247.970** | **100%** |
+| Equipamentos | R$ 76.350 | 31,9% |
+| Adequação do espaço | R$ 25.000 | 10,4% |
+| Insumos e produção-escola | R$ 32.000 | 13,4% |
+| Instrutores | R$ 67.320 | 28,1% |
+| Coordenação e incubação | R$ 32.000 | 13,4% |
+| Divulgação/certificação/monitoramento | R$ 7.000 | 2,9% |
+| **TOTAL SOLICITADO AO FRBL** | **R$ 239.670** | **100%** |
 
-- **Investimento** (equipamentos + adequação + insumos) = R$ 141.650 = **57,1%**.
-- **Metade do teto** do edital (R$ 500 mil) → sinaliza **economicidade** (critério de julgamento 3.2/5.2).
-- **Beneficiários:** ~150 pessoas em 24 meses → custo/pessoa ≈ **R$ 1.650**.
+- **Investimento** (equipamentos + adequação + insumos) = R$ 133.350 = **55,6%**.
+- **Menos da metade do teto** do edital (R$ 500 mil) → sinaliza forte **economicidade** (critério de julgamento 3.2/5.2).
+- **Beneficiários:** ~150 pessoas em 24 meses → custo/pessoa ≈ **R$ 1.600**.
 
 ---
 
@@ -109,6 +111,7 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 
 O edital admite contrapartida como **eventual/opcional** (não é somada ao que se pede). O Instituto BZN oferece, **sem custo ao FRBL e fora do orçamento solicitado**, sua estrutura própria já existente:
 
+- **Máquinas de costura já instaladas: 2 retas industriais + 1 galoneira** (integram a sala de produção junto às máquinas a adquirir)
 - Estúdio de maquiagem (poltronas, espelhos, iluminação profissional)
 - Salas de aula e auditório (projetor, tela, quadro)
 - Internet e apoio administrativo institucional
