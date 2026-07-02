@@ -59,11 +59,12 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 | Autoclave/esterilizador + biossegurança | 1 | R$ 3.000 | R$ 3.000 |
 | Kits iniciais (manicure, cílios, sobrancelha, maquiagem) | lote | — | R$ 8.000 |
 
-### 3.2 Adequação do espaço — R$ 25.000
+### 3.2 Adequação do espaço — R$ 34.000
 | Item | Valor |
 |---|---|
 | Adequação elétrica + divisória + portão da sala de costura | R$ 18.000 |
 | Mobiliário das estações de trabalho | R$ 7.000 |
+| Climatização: 2 ar-condicionados split 20.000 BTU + instalação | R$ 9.000 |
 
 ### 3.3 Insumos e produção-escola (24 meses) — R$ 32.000
 | Item | Valor |
@@ -94,17 +95,17 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 
 | Categoria | Valor | % |
 |---|---|---|
-| Equipamentos | R$ 83.350 | 33,8% |
-| Adequação do espaço | R$ 25.000 | 10,1% |
-| Insumos e produção-escola | R$ 32.000 | 13,0% |
-| Instrutores | R$ 67.320 | 27,3% |
-| Coordenação e incubação | R$ 32.000 | 13,0% |
-| Divulgação/certificação/monitoramento | R$ 7.000 | 2,8% |
-| **TOTAL SOLICITADO AO FRBL** | **R$ 246.670** | **100%** |
+| Equipamentos | R$ 83.350 | 32,6% |
+| Adequação do espaço | R$ 34.000 | 13,3% |
+| Insumos e produção-escola | R$ 32.000 | 12,5% |
+| Instrutores | R$ 67.320 | 26,3% |
+| Coordenação e incubação | R$ 32.000 | 12,5% |
+| Divulgação/certificação/monitoramento | R$ 7.000 | 2,7% |
+| **TOTAL SOLICITADO AO FRBL** | **R$ 255.670** | **100%** |
 
-- **Investimento** (equipamentos + adequação + insumos) = R$ 140.350 = **56,9%**.
-- **Menos da metade do teto** do edital (R$ 500 mil) → sinaliza forte **economicidade** (critério de julgamento 3.2/5.2).
-- **Beneficiários:** ~150 pessoas em 24 meses → custo/pessoa ≈ **R$ 1.650**.
+- **Investimento** (equipamentos + adequação + insumos) = R$ 149.350 = **58,4%**.
+- **Cerca da metade do teto** do edital (R$ 500 mil) → sinaliza forte **economicidade** (critério de julgamento 3.2/5.2).
+- **Beneficiários:** ~150 pessoas em 24 meses → custo/pessoa ≈ **R$ 1.700**.
 
 ---
 
