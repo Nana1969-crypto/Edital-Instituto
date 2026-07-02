@@ -30,19 +30,20 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 
 ## 3. O QUE SE PEDE AO FRBL — ORÇAMENTO ENXUTO (de baixo pra cima)
 
-### 3.1 Equipamentos — R$ 76.350
+### 3.1 Equipamentos — R$ 83.350
 
-**a) Costura — máquinas a adquirir — R$ 23.350**
+**a) Costura — máquinas a adquirir — R$ 30.350**
 *(o Instituto já possui 2 retas + 1 galoneira, que entram como contrapartida — ver seção 5)*
 | Item | Qtd | Unit. | Total |
 |---|---|---|---|
-| Reta industrial (direct drive) | 3 | R$ 2.800 | R$ 8.400 |
-| Overloque industrial | 2 | R$ 3.200 | R$ 6.400 |
+| Reta industrial (direct drive) — tecido leve/médio | 3 | R$ 2.800 | R$ 8.400 |
+| Overloque industrial — malha e arremate | 2 | R$ 3.200 | R$ 6.400 |
+| **Reta transporte triplo — couro e jeans pesado** | 1 | R$ 7.000 | R$ 7.000 |
 | Máquina de corte (disco 4") | 1 | R$ 850 | R$ 850 |
 | Ferro industrial com caldeira | 1 | R$ 2.700 | R$ 2.700 |
 | Mesa de corte + manequins + kit modelagem + tesouras | lote | — | R$ 5.000 |
 
-> **Parque final da sala de costura:** 5 retas + 2 overloques + 1 galoneira + corte + ferro (somando o que o Instituto já possui).
+> **Parque final da sala de costura:** 5 retas comuns + 1 transporte triplo (couro/jeans) + 2 overloques + 1 galoneira + corte + ferro. **Cobre todos os tecidos** — leve, médio, malha, jeans pesado e couro.
 
 **b) Empreendedorismo Digital / Social Media — R$ 33.500**
 | Item | Qtd | Unit. | Total |
@@ -93,17 +94,17 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 
 | Categoria | Valor | % |
 |---|---|---|
-| Equipamentos | R$ 76.350 | 31,9% |
-| Adequação do espaço | R$ 25.000 | 10,4% |
-| Insumos e produção-escola | R$ 32.000 | 13,4% |
-| Instrutores | R$ 67.320 | 28,1% |
-| Coordenação e incubação | R$ 32.000 | 13,4% |
-| Divulgação/certificação/monitoramento | R$ 7.000 | 2,9% |
-| **TOTAL SOLICITADO AO FRBL** | **R$ 239.670** | **100%** |
+| Equipamentos | R$ 83.350 | 33,8% |
+| Adequação do espaço | R$ 25.000 | 10,1% |
+| Insumos e produção-escola | R$ 32.000 | 13,0% |
+| Instrutores | R$ 67.320 | 27,3% |
+| Coordenação e incubação | R$ 32.000 | 13,0% |
+| Divulgação/certificação/monitoramento | R$ 7.000 | 2,8% |
+| **TOTAL SOLICITADO AO FRBL** | **R$ 246.670** | **100%** |
 
-- **Investimento** (equipamentos + adequação + insumos) = R$ 133.350 = **55,6%**.
+- **Investimento** (equipamentos + adequação + insumos) = R$ 140.350 = **56,9%**.
 - **Menos da metade do teto** do edital (R$ 500 mil) → sinaliza forte **economicidade** (critério de julgamento 3.2/5.2).
-- **Beneficiários:** ~150 pessoas em 24 meses → custo/pessoa ≈ **R$ 1.600**.
+- **Beneficiários:** ~150 pessoas em 24 meses → custo/pessoa ≈ **R$ 1.650**.
 
 ---
 
