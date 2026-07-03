@@ -2,7 +2,7 @@
 ## Projeto "Trilha Recomeçar" — Instituto BZN
 ## Edital 02/2026/FRBL — Fundo para Reconstituição de Bens Lesados
 
-> Abordagem diferente da versão anterior: **orçamento montado de baixo pra cima** (a partir dos equipamentos reais), **enxuto** (bem abaixo do teto), e com a **contrapartida do Instituto claramente separada — ela NÃO entra no valor solicitado**.
+> Abordagem diferente da versão anterior: **orçamento montado de baixo pra cima** (a partir dos equipamentos reais), **dimensionado para a meta de 250 beneficiários (125/ano)**, e com a **contrapartida do Instituto claramente separada — ela NÃO entra no valor solicitado**.
 
 ---
 
@@ -28,7 +28,7 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 
 ---
 
-## 3. O QUE SE PEDE AO FRBL — ORÇAMENTO ENXUTO (de baixo pra cima)
+## 3. O QUE SE PEDE AO FRBL — ORÇAMENTO PARA 250 BENEFICIÁRIOS (de baixo pra cima)
 
 ### 3.1 Equipamentos — R$ 83.350
 
@@ -66,28 +66,29 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 | Mobiliário das estações de trabalho | R$ 7.000 |
 | Climatização: 2 ar-condicionados split 20.000 BTU + instalação | R$ 9.000 |
 
-### 3.3 Insumos e produção-escola (24 meses) — R$ 32.000
+### 3.3 Insumos e produção-escola (24 meses) — R$ 55.000
 | Item | Valor |
 |---|---|
-| Tecidos, linhas e aviamentos (produção-escola) | R$ 18.000 |
-| Insumos de beleza | R$ 9.000 |
-| Material didático | R$ 5.000 |
+| Tecidos, linhas e aviamentos (produção-escola — 12 turmas de costura) | R$ 30.000 |
+| Insumos de beleza (13 turmas) | R$ 15.000 |
+| Material didático (250 pessoas) | R$ 10.000 |
 
-### 3.4 Instrutores (execução) — R$ 67.320
+### 3.4 Instrutores (execução) — R$ 260.100
+*Prática em turmas de 10; módulos teóricos compartilhados (social media + empreendedorismo) em grupos de ~25.*
 | Curso | CH | Turmas | Horas | R$/h | Total |
 |---|---|---|---|---|---|
-| Costura + Modelagem (produção-escola) | 100h | 3 | 300h | R$ 85 | R$ 25.500 |
-| Beleza (maquiagem, manicure, cílios, sobrancelha) | 60h | 4 | 240h | R$ 85 | R$ 20.400 |
-| Social Media para Negócios | 40h | 3 | 120h | R$ 85 | R$ 10.200 |
-| Empreendedorismo + Gestão + Educação Financeira | 44h | 3 | 132h | R$ 85 | R$ 11.220 |
+| Costura + Modelagem (produção-escola) | 120h | 12 | 1.440h | R$ 85 | R$ 122.400 |
+| Beleza (maquiagem, manicure, cílios, sobrancelha) | 60h | 13 | 780h | R$ 85 | R$ 66.300 |
+| Social Media (grupos de ~25) | 40h | 10 | 400h | R$ 85 | R$ 34.000 |
+| Empreendedorismo + Gestão + Educação Financeira (grupos de ~25) | 44h | 10 | 440h | R$ 85 | R$ 37.400 |
 
-### 3.5 Coordenação e incubação — R$ 32.000
+### 3.5 Coordenação e incubação — R$ 48.000
 | Item | Valor |
 |---|---|
-| Coordenação do projeto (execução, 24 meses, parcial) | R$ 24.000 |
-| Incubação: formalização de MEI, plano de negócio, vitrine digital | R$ 8.000 |
+| Coordenação do projeto (execução, 24 meses) | R$ 36.000 |
+| Incubação: formalização de MEI, plano de negócio, vitrine digital | R$ 12.000 |
 
-### 3.6 Divulgação, certificação e monitoramento — R$ 7.000
+### 3.6 Divulgação, certificação e monitoramento — R$ 12.000
 
 ---
 
@@ -95,17 +96,18 @@ A enchente de maio/2024 destruiu a **economia popular** da região do Sarandi �
 
 | Categoria | Valor | % |
 |---|---|---|
-| Equipamentos | R$ 83.350 | 32,6% |
-| Adequação do espaço | R$ 34.000 | 13,3% |
-| Insumos e produção-escola | R$ 32.000 | 12,5% |
-| Instrutores | R$ 67.320 | 26,3% |
-| Coordenação e incubação | R$ 32.000 | 12,5% |
-| Divulgação/certificação/monitoramento | R$ 7.000 | 2,7% |
-| **TOTAL SOLICITADO AO FRBL** | **R$ 255.670** | **100%** |
+| Equipamentos | R$ 83.350 | 16,9% |
+| Adequação do espaço | R$ 34.000 | 6,9% |
+| Insumos e produção-escola | R$ 55.000 | 11,2% |
+| Instrutores | R$ 260.100 | 52,8% |
+| Coordenação e incubação | R$ 48.000 | 9,7% |
+| Divulgação/certificação/monitoramento | R$ 12.000 | 2,4% |
+| **TOTAL SOLICITADO AO FRBL** | **R$ 492.450** | **100%** |
 
-- **Investimento** (equipamentos + adequação + insumos) = R$ 149.350 = **58,4%**.
-- **Cerca da metade do teto** do edital (R$ 500 mil) → sinaliza forte **economicidade** (critério de julgamento 3.2/5.2).
-- **Beneficiários:** ~150 pessoas em 24 meses → custo/pessoa ≈ **R$ 1.700**.
+- **Beneficiários:** **250 pessoas** em 24 meses (125/ano) → custo/pessoa ≈ **R$ 1.970**.
+- **Investimento** (equipamentos + adequação + insumos) = R$ 172.350 = **35,0%**.
+- **Dentro do teto** do edital (R$ 500 mil), com folga de ~R$ 7,5 mil.
+- ⚠️ **Atenção — custeio/pessoal:** instrutores + coordenação = R$ 308.100 = **62,5%**. É **indispensável verificar na Resolução 01/2024/FRBL e IN CAGE 05/2016** se há teto para pessoal/custeio. Havendo, mitigar com **instrutores voluntários/parceiros** nos módulos compartilhados (SENAI/SENAC, mentores) para reduzir a rubrica.
 
 ---
 
@@ -118,7 +120,7 @@ O edital admite contrapartida como **eventual/opcional** (não é somada ao que 
 - Salas de aula e auditório (projetor, tela, quadro)
 - Internet e apoio administrativo institucional
 
-> Esta estrutura **não é convertida em dinheiro somado ao projeto**. Aparece apenas como demonstração de capacidade instalada. Se o formulário eletrônico exigir uma valoração, ela é informada em **campo próprio e separado**, jamais dentro dos R$ 247.970 solicitados.
+> Esta estrutura **não é convertida em dinheiro somado ao projeto**. Aparece apenas como demonstração de capacidade instalada. Se o formulário eletrônico exigir uma valoração, ela é informada em **campo próprio e separado**, jamais dentro dos R$ 492.450 solicitados.
 
 ---
 
@@ -140,10 +142,11 @@ Equipamentos com vida útil de 10–15 anos (atendem turmas muito além do perí
 
 ---
 
-## 8. OS DOIS "BOTÕES" QUE VOCÊ PODE AJUSTAR
+## 8. OS "BOTÕES" QUE VOCÊ PODE AJUSTAR
 
-1. **Tamanho da turma** → mais alunas = mais máquinas/estações = orçamento sobe.
-2. **Valor total** → hoje em ~R$ 248 mil; dá para crescer (mais máquinas/turmas) ou reduzir ainda mais.
+1. **Nº de beneficiários** → hoje 250 (meta definida). Menos pessoas = menos turmas = orçamento menor.
+2. **Valor total** → hoje em **R$ 492.450** (perto do teto de R$ 500 mil). Se o teto de custeio apertar, reduz-se turmas ou usa-se instrutores voluntários.
+3. **Tamanho da turma** → fixado em 10 (prática); módulos teóricos em grupos de ~25.
 
 *Preços de equipamentos: referência de mercado (jul/2026), a confirmar com as 3 cotações obrigatórias (item 1.11.a).*
 
